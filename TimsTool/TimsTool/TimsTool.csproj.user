@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+    <_LastSelectedProfileId>D:\projects\source\TimsTool\TimsTool\Properties\PublishProfiles\Prod.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="TreeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ApplicationNowWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ConfirmDraftWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DataPatchByTagWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ExcelExportWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MessageWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tree\CourtRegisterSubscriptions.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReportWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TreeWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tree\EdtSubscriptionsControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tree\EdtControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tree\InformantRegisterControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tree\NowSubscriptionControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tree\NowControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tree\PrisonCourtRegisterSubscriptionControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tree\ResultDefinitionControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

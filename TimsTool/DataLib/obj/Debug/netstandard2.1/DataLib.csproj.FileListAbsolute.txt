@@ -1,0 +1,39 @@
+D:\projects\source\TimsTool\DataLib\bin\Debug\netstandard2.1\DataLib.deps.json
+D:\projects\source\TimsTool\DataLib\bin\Debug\netstandard2.1\DataLib.dll
+D:\projects\source\TimsTool\DataLib\bin\Debug\netstandard2.1\DataLib.pdb
+D:\projects\source\TimsTool\DataLib\bin\Debug\netstandard2.1\Identity.dll
+D:\projects\source\TimsTool\DataLib\bin\Debug\netstandard2.1\Identity.pdb
+D:\projects\source\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.csproj.AssemblyReference.cache
+D:\projects\source\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\source\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.AssemblyInfoInputs.cache
+D:\projects\source\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.AssemblyInfo.cs
+D:\projects\source\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.csproj.CoreCompileInputs.cache
+D:\projects\source\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.csproj.CopyComplete
+D:\projects\source\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.dll
+D:\projects\source\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.pdb
+D:\projects\source\TimsTool - Not Working\DataLib\bin\Debug\netstandard2.1\DataLib.deps.json
+D:\projects\source\TimsTool - Not Working\DataLib\bin\Debug\netstandard2.1\DataLib.dll
+D:\projects\source\TimsTool - Not Working\DataLib\bin\Debug\netstandard2.1\DataLib.pdb
+D:\projects\source\TimsTool - Not Working\DataLib\bin\Debug\netstandard2.1\Identity.dll
+D:\projects\source\TimsTool - Not Working\DataLib\bin\Debug\netstandard2.1\Identity.pdb
+D:\projects\source\TimsTool - Not Working\DataLib\obj\Debug\netstandard2.1\DataLib.csproj.AssemblyReference.cache
+D:\projects\source\TimsTool - Not Working\DataLib\obj\Debug\netstandard2.1\DataLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\source\TimsTool - Not Working\DataLib\obj\Debug\netstandard2.1\DataLib.AssemblyInfoInputs.cache
+D:\projects\source\TimsTool - Not Working\DataLib\obj\Debug\netstandard2.1\DataLib.AssemblyInfo.cs
+D:\projects\source\TimsTool - Not Working\DataLib\obj\Debug\netstandard2.1\DataLib.csproj.CoreCompileInputs.cache
+D:\projects\source\TimsTool - Not Working\DataLib\obj\Debug\netstandard2.1\DataLib.csproj.CopyComplete
+D:\projects\source\TimsTool - Not Working\DataLib\obj\Debug\netstandard2.1\DataLib.dll
+D:\projects\source\TimsTool - Not Working\DataLib\obj\Debug\netstandard2.1\DataLib.pdb
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\bin\Debug\netstandard2.1\DataLib.deps.json
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\bin\Debug\netstandard2.1\DataLib.dll
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\bin\Debug\netstandard2.1\DataLib.pdb
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\bin\Debug\netstandard2.1\Identity.dll
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\bin\Debug\netstandard2.1\Identity.pdb
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.csproj.AssemblyReference.cache
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.AssemblyInfoInputs.cache
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.AssemblyInfo.cs
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.csproj.CoreCompileInputs.cache
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.csproj.CopyComplete
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.dll
+D:\projects\source\HMCTS\cooketim\TimsTool\DataLib\obj\Debug\netstandard2.1\DataLib.pdb

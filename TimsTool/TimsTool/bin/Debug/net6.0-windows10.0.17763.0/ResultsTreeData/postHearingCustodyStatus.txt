@@ -1,0 +1,1 @@
+B~Conditional Bail,U~Unconditional Bail,C~Custody or remanded into custody,A~Not applicable,L~Remanded into care of Local Authority,P~Conditional Bail with Pre-Release conditions,S~Remanded into Youth Detention Accommodation,R~Re-arrested after release on bail

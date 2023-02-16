@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2022-09-14T19:31:26.2529068Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-09-14T19:30:10.4559119Z"
+    }
+  },
+  "parameters": {
+    "secrets1.resourceGroupName": {
+      "Name": "secrets1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "hearing-resulted-rg"
+    },
+    "secrets1.subscriptionId": {
+      "Name": "secrets1.subscriptionId",
+      "Type": "subscription",
+      "Value": "b3666adf-c13c-4dcd-a844-7db7ee89b577"
+    }
+  }
+}

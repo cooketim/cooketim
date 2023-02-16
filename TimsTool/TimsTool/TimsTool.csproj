@@ -1,0 +1,253 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows10.0.17763.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+	<RootNamespace>TimsTool</RootNamespace>
+	<AssemblyName>TimsTool</AssemblyName>
+	<ApplicationIcon>ResultsTree.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="appsettings.json" />
+    <None Remove="Assets\btn_google_sign-in.png" />
+    <None Remove="ResultsTree.ico" />
+    <None Remove="ResultsTreeData\courtHouses.csv" />
+    <None Remove="ResultsTreeData\featureToggles.csv" />
+    <None Remove="ResultsTreeData\informants.csv" />
+    <None Remove="ResultsTreeData\jurisdictions.txt" />
+    <None Remove="ResultsTreeData\personTitles.txt" />
+    <None Remove="ResultsTreeData\postHearingCustodyStatus.txt" />
+    <None Remove="ResultsTreeData\resultDefinitionCategories.txt" />
+    <None Remove="ResultsTreeData\resultDefinitionLevels.txt" />
+    <None Remove="ResultsTreeData\resultPromptTypes.txt" />
+    <None Remove="ResultsTreeData\userGroups.txt" />
+    <None Remove="ResultsTreeData\yots.csv" />
+    <None Remove="Tree\Images\BooleanResultDefinition.png" />
+    <None Remove="Tree\Images\BooleanResultDefinitionPublishedPending.png" />
+    <None Remove="Tree\Images\FixedList.png" />
+    <None Remove="Tree\Images\FixedListDeleted.png" />
+    <None Remove="Tree\Images\FixedListPublishedPending.png" />
+    <None Remove="Tree\Images\ListOfNows.png" />
+    <None Remove="Tree\Images\NOW.png" />
+    <None Remove="Tree\Images\NOWDeleted.png" />
+    <None Remove="Tree\Images\NowPublishedPending.png" />
+    <None Remove="Tree\Images\NowRequirement.png" />
+    <None Remove="Tree\Images\NowRequirementDeleted.png" />
+    <None Remove="Tree\Images\NowRequirementPromptRule.png" />
+    <None Remove="Tree\Images\NowRequirementPromptRuleDeleted.png" />
+    <None Remove="Tree\Images\NowRequirementPromptRulePublishedPending.png" />
+    <None Remove="Tree\Images\NowRequirementPublishedPending.png" />
+    <None Remove="Tree\Images\NowSubscription.png" />
+    <None Remove="Tree\Images\NowSubscriptionDeleted.png" />
+    <None Remove="Tree\Images\NowSubscriptionPublishedPending.png" />
+    <None Remove="Tree\Images\Published.png" />
+    <None Remove="Tree\Images\PublishedPending.png" />
+    <None Remove="Tree\Images\ResultDefinition.png" />
+    <None Remove="Tree\Images\ResultDefinitionDeleted.png" />
+    <None Remove="Tree\Images\ResultDefinitionGroup.png" />
+    <None Remove="Tree\Images\ResultDefinitionGroupDeleted.png" />
+    <None Remove="Tree\Images\ResultDefinitionGroupPublishedPending.png" />
+    <None Remove="Tree\Images\ResultDefinitionPublishedPending.png" />
+    <None Remove="Tree\Images\ResultPrompt.png" />
+    <None Remove="Tree\Images\ResultPromptDeleted.png" />
+    <None Remove="Tree\Images\ResultPromptPublishedPending.png" />
+    <None Remove="Tree\Images\Synonym.png" />
+    <None Remove="Tree\Images\SynonymDeleted.png" />
+    <None Remove="Tree\Images\SynonymPublishedPending.png" />
+    <None Remove="Tree\Images\WordGroup.png" />
+    <None Remove="Tree\Images\WordGroupPublishedPending.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\courtHouses.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\featureToggles.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\informants.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\jurisdictions.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\personTitles.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\postHearingCustodyStatus.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\resultDefinitionCategories.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\resultDefinitionLevels.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\resultPromptTypes.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\userGroups.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ResultsTreeData\yots.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\btn_google_sign-in.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ResultsTree.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\BooleanResultDefinition.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\BooleanResultDefinitionPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\FixedList.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\FixedListDeleted.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\FixedListPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\ListOfNows.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NOW.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NOWDeleted.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowRequirement.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowRequirementDeleted.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowRequirementPromptRule.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowRequirementPromptRuleDeleted.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowRequirementPromptRulePublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowRequirementPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowSubscription.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowSubscriptionDeleted.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\NowSubscriptionPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\Published.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\PublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\ResultDefinition.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\ResultDefinitionDeleted.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\ResultDefinitionGroup.png" />
+    <Resource Include="Tree\Images\ResultDefinitionGroupDeleted.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\ResultDefinitionGroupPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\ResultDefinitionPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\ResultPrompt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\ResultPromptDeleted.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\ResultPromptPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\Synonym.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\SynonymDeleted.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\SynonymPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Tree\Images\WordGroup.png" />
+    <Resource Include="Tree\Images\WordGroupPublishedPending.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+	
+  <ItemGroup>
+    <PackageReference Include="CsvTextFieldParser" Version="1.2.2" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.9" />
+	<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+	<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+	<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+	<PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="6.0.0" />
+	<PackageReference Include="Microsoft.Identity.Client">
+		<Version>4.42.1</Version>
+	</PackageReference>
+	<PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.39" />
+	<PackageReference Include="Newtonsoft.Json">
+		<Version>13.0.1</Version>
+	</PackageReference>
+	<PackageReference Include="Newtonsoft.Json.Schema">
+		<Version>3.0.14</Version>
+	</PackageReference>
+	<PackageReference Include="Serilog" Version="2.10.0" />
+	<PackageReference Include="Serilog.Exceptions" Version="8.1.0" />
+	<PackageReference Include="Serilog.Sinks.Console" Version="4.0.1" />
+	<PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <ProjectReference Include="..\Configuration\Configuration.csproj" />
+    <ProjectReference Include="..\DataLib\DataLib.csproj" />
+    <ProjectReference Include="..\Models\Models.csproj" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <Page Update="DataPatchByTagWindow.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tree\CourtRegisterSubscriptions.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+	
+  <ItemGroup>
+    <Folder Include="Tree\Extended\" />
+  </ItemGroup>
+
+</Project>

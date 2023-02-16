@@ -1,0 +1,1144 @@
+2023-02-11 10:35:19.252 +00:00 [INF] Started ResultsTree
+2023-02-11 10:35:26.661 +00:00 [INF] Detected internet connection
+2023-02-11 10:35:26.751 +00:00 [INF] Checking web for sign in page
+2023-02-11 10:35:29.988 +00:00 [INF] Authorization code: 4/0AWtgzh5TXgrC0AuDRXBGQ3bG8As_M90wi7fZzI2WqmhYLtPwJJZFO1lJl0dcFrAndLTb4A
+2023-02-11 10:35:30.081 +00:00 [INF] Checking authentication tokens
+2023-02-11 10:35:30.428 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsp84MGV2jj2UBBQ1ZFOKYYcY8QLngALcoccLN36G-xRLtFlTNCB_3qaMZIBriUPcfaOGRMJ4DpuZqIICMFe242lSYzjdPzXTMQz7vH7aWGnPsOZzdMajbq7RrXxCweAJDocxEvt0q6I7-yCl_oOgBrRaCgYKAaYSARISFQGbdwaIbnhhULNx5dyXZk3z_yyICw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//038Yw3iGtYa64CgYIARAAGAMSNwF-L9IrbCjH2f57ectcZ_eaDZjQ2FZcTDJ6PSSOBJjDausn2meAfNvmeG_LsK3ECuczJM-OY2A",
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiVnc2cEpDenB1b0J1MDBPQVozZGhHQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MTExNzMyLCJleHAiOjE2NzYxMTUzMzJ9.wfkYe3zCJ-8oyDJHVl9FYszHgiT5ZU2yLsfpS8dKJYyIS1A6ZhLurddYyu4SuL-8-B48YWo12mTj6dIq_HY4ZhgQ6p0LI2xbm_F8tP-W-1Z23-RfFsU32BZx1pVy5juRL6-KI5TXdw-tFDIYUffF1FguniDJ8g9ZwTkwmF4TFQRWYCB8HPRevSwM-QlVf0MsZDziFWU7vwndWwmfo7wjKhM8NbvPFCikTJznSt8_UsphIWCT2kNwn7fU8pAW4qXGYYw8O31-HoTUVmdy37_mDCF7IRTsFYX05MqLvJxF1kFl1mZ2c4TWEc_6om9op7A1S9Gigt1TrdNQNLaQQ6D1vA"
+}
+2023-02-11 10:35:30.457 +00:00 [INF] Getting user details...
+2023-02-11 10:35:30.557 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-11 10:35:30.610 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-11 10:35:40.862 +00:00 [INF] Preparing data ...
+2023-02-11 10:46:11.047 +00:00 [INF] Started ResultsTree
+2023-02-11 10:48:19.144 +00:00 [INF] Started ResultsTree
+2023-02-11 10:48:25.452 +00:00 [INF] Detected internet connection
+2023-02-11 10:48:25.471 +00:00 [INF] Checking web for sign in page
+2023-02-11 10:48:28.501 +00:00 [INF] Authorization code: 4/0AWtgzh4eMUtv6ykR_Sgs30kmp12vMcbOurPIB837ztngSyZnuGTpjrKh2T6lqowqdhBwkg
+2023-02-11 10:48:28.505 +00:00 [INF] Checking authentication tokens
+2023-02-11 10:48:28.825 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsqLIgSjpx7TaIfrJ-aOMhcGQx0CCmod88Fyx7oTGTW7FnETzEzLysZXuzOD6exuQD0DOaI-sFVZaYOgoA1aHkNZEitPm3agtblSsxzAZ0K3qnDANTuZVqWmb2fPqkW27egU2U3LaomA2n9ShJm1EMpeaCgYKAWwSARISFQGbdwaIkVfy7RQGXwQdnE1p3QNrSA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03XDITiY0depjCgYIARAAGAMSNwF-L9IrJkLR9Pf87HWfEYyKWrdsu2CeHs0ARnmuo2mOYUPhJmHWg1MASbx2ScUo9QanXatjgvo",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoidElEa0RNQm1GZVpEdlI1MTFXbDVfUSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MTEyNTExLCJleHAiOjE2NzYxMTYxMTF9.O-dLI3j1vYw7S2FlJH_ptnTt_kHsAkGLVCN8fv3bwNXbAx3tF7zpVqKcrDm4Rdbqm5LEY7eFWVYyXnJayJjVuFCVuXRZnfyi9LRvQFHzxUjkT6oM2VLwmVgBsK0tXcktA4d6FwJcpK_WDHJtOisY4A7XXJnGEeNfpKE_J8nQjON5HMSktfL7wSLz4RZUGVBZCZcPZfBH_3HgZ44IgL06kx2h3B1dJJdfT6WsmWuYPEfRaCUmiWY3NPw8d9BS91I_abhRJEb43MgcuB4BSa5D3WY6N6XJyEd03uNt_IBN_Yy9rnhDgIf_ry-GUwr0K2yvJV0yhBbKAOBZmdOPZFWwlw"
+}
+2023-02-11 10:48:28.855 +00:00 [INF] Getting user details...
+2023-02-11 10:48:28.951 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-11 10:48:28.974 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-11 10:48:30.010 +00:00 [INF] Preparing data ...
+2023-02-11 10:54:53.204 +00:00 [INF] Started ResultsTree
+2023-02-11 10:54:58.934 +00:00 [INF] Detected internet connection
+2023-02-11 10:54:58.954 +00:00 [INF] Checking web for sign in page
+2023-02-11 10:55:02.367 +00:00 [INF] Authorization code: 4/0AWtgzh7uslfsYuvvgfLy-QJnyuzryO-g62MRJRm3WSypq-H8eVmnw2kK2vna6GpZEQahIg
+2023-02-11 10:55:02.400 +00:00 [INF] Checking authentication tokens
+2023-02-11 10:55:02.711 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVso9JslMEhOyPLS-FcSTGx8AtGlG-zbfA_69pCeB1ILOVPUY4O_8uuZsXq1PwCIcvLXeYmesuGOa1PUS41Vy3R0izHA9xRVaIcoFczD5cwZUQ-O_W11qWMOEYMOgbamYQ6X5s0wKsgJxbkQGo_iIGU1AaCgYKARISARISFQGbdwaIgfg4A_7deaPvgIiSppLTHQ0163",
+  "expires_in": 3599,
+  "refresh_token": "1//039n26sUbNdwPCgYIARAAGAMSNwF-L9Ir2QM87n_p_4aSW6kCpaM_Bn5mzR41pIwcGqL_2eB19D6LXRiB2WHeHy2qlytawf4o4Ek",
+  "scope": "https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiR09FaE1tVDlqczZQcXp6QlBCQzVnQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MTEyOTA0LCJleHAiOjE2NzYxMTY1MDR9.AIAtLBd0pl7nXtNw2fp7v-oLnJAbhKHzcMA-XszgfVJD7aOynTD65A0Ca7JRILhLtvHT5CmzWIm3fXsEQ-uwQ1RpB7Xsuo9t3pGI-A9TH5JVBAzPDir1l3xSEKzqWmZorzcOcZ0tvP-5FvBHRjyIKUqb9C-LQmFKSWsxi0NL-PSEUe6Ia41Gvv46HW6O04C6N5BpGBRDB75p9y1mY7A3kIy3PSh-W10k5UW8crmKL0ygm8uqYzinMIXCNky25L596GdrT0Uqsx62XwTaxjYdaRHlo94-YGvOg1gOIWKi91ND3bF0L8GTvl4KvmdyD4URAihtjLTkFz9Nltj876usqQ"
+}
+2023-02-11 10:55:02.740 +00:00 [INF] Getting user details...
+2023-02-11 10:55:02.837 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-11 10:55:02.855 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-11 10:55:17.680 +00:00 [INF] Preparing data ...
+2023-02-12 10:47:12.575 +00:00 [INF] Started ResultsTree
+2023-02-12 10:47:17.989 +00:00 [INF] Detected internet connection
+2023-02-12 10:47:18.014 +00:00 [INF] Checking web for sign in page
+2023-02-12 10:47:23.931 +00:00 [INF] Authorization code: 4/0AWtgzh4GVDyM0ZTu1GEGOoRxEa8lNz-Li46T4iC8uVOZk9LP1oPbKkmFvWE-mhPRB9Vwvg
+2023-02-12 10:47:24.015 +00:00 [INF] Checking authentication tokens
+2023-02-12 10:47:24.338 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsr9memX8484cr7PhQyfnLwEbxQnQ-RBTgS_E5AfBfbWM4grPRkEdnFWirtg7rt6PBj6bE22_K5C0wYjHElQWj5LGeAXWrMbpvW1GHXPHMN50SO2X5MYEwFbIaE41186di1kx0SMJFz2jtRetto-AdaYaCgYKAWsSARISFQGbdwaIa30WWNqXcXX74aJQJp9Syw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03pH3MUHyQKP6CgYIARAAGAMSNwF-L9IrgP0KaB2Oh1w3WGssHz8M_I7Qy1NeGwpNhJfu0p-REa-hx98mo0c0Yupkd71YBW1ADWQ",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiM2lMeUtoU3FFckM3ejg5X3VMTE1vZyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MTk4ODUyLCJleHAiOjE2NzYyMDI0NTJ9.LRY6plMWZDhuix6Sv_Mc98BPRg6gCW6JgYZwDxUrsCPw5yOXuR3bua-yLgjuTxMtkUqVf-HMeu58nzq7X5h9InT95FpLTKdjvWnQgQ39oPjnWGAi__7zegpsCaUe-5gu6XDqbaYCcV4rYXwPb0Bup3gRoFCtVuTCZtlfPpEhepieslXA56o29js6OsEM4GDufVOkZdnko9ZUB1GdkZoY141SGkRdxKf7oisDMhu3QBjIFPbUuKRCmbO45AHgjMs6oHgbJDZGJyux7bjCatf1q4JZHYNS7gPOthp_E5mAzOU7ttJv7FinCo_RfhP2-3EaBSprik2nQjxTiFKr3S9J6Q"
+}
+2023-02-12 10:47:24.374 +00:00 [INF] Getting user details...
+2023-02-12 10:47:24.458 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 10:47:24.480 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 10:47:35.556 +00:00 [INF] Preparing data ...
+2023-02-12 10:51:06.623 +00:00 [INF] Saved data file
+2023-02-12 10:51:49.303 +00:00 [INF] Started ResultsTree
+2023-02-12 10:51:54.602 +00:00 [INF] Detected internet connection
+2023-02-12 10:51:54.620 +00:00 [INF] Checking web for sign in page
+2023-02-12 10:51:57.387 +00:00 [INF] Authorization code: 4/0AWtgzh4w8PGbKsqsvQBR55J80DdVsx8HT79R0uSinVTwxMxdcge2kobF8tDVfKa2GHVzYA
+2023-02-12 10:51:57.392 +00:00 [INF] Checking authentication tokens
+2023-02-12 10:51:57.735 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVspruCKce_Z0zAfsKpNszGUcKZJP6a6Y70WW2PAdxpC3vNLgpKhDBg6N_A9oB5Mi9TlkaLCQwgoxsRHRw_mG3YwqYqB3NuCBjNoQXEsyoXUkelSaZWLqYIOjnO-Y-ueC3HLhWJSe69_2ukoRdx-O39gHaCgYKAXISARISFQGbdwaIWQKekgEXheZ8ExouH6-0bA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03HmQqBm4F1EpCgYIARAAGAMSNwF-L9Iru39VQ-McnD8bb-jP1qegjkAF8yHAlRxfCbChgHjUCpFZ5HUojduunzlLbz6TYyt9bOI",
+  "scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiYnBZM2lOSE9kQU9uRVlhUEZ3VklFdyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MTk5MTI1LCJleHAiOjE2NzYyMDI3MjV9.LyGVw7c0a1dYyNZCgQROFZStMBWMOWclGDteRU6GHvOmQQv68YVPKJufcnSWrs-vtPNvFoVhv-z6B-R0Cp4e-sByc28AfoZouyuOrGZa_PIwe5MtyW3Fr9NiU4-7szFRiqwG9WVcHvLQlOqJu0DAvMpftm-L00Hi2zxpB0p0ahI34IlAhjhBlxQXzOvu1DfWaMCKw4NfRxC7Lt9I-taY_FydzFutZ4VHdAC9io-WcppR-M6Ou7UbRsNM8cGjYB2tPLOmbPrMQ0-20vmytwPGvMej0ZhKnJ5lmxv59lwA4xAhqsMBr890BTrmZqqBMNA0pZqXDF7C_LBHjwRMhffcOQ"
+}
+2023-02-12 10:51:57.760 +00:00 [INF] Getting user details...
+2023-02-12 10:51:57.866 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 10:51:57.884 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 10:52:22.024 +00:00 [INF] Preparing data ...
+2023-02-12 10:56:40.620 +00:00 [INF] Started ResultsTree
+2023-02-12 10:56:44.408 +00:00 [INF] Detected internet connection
+2023-02-12 10:56:44.431 +00:00 [INF] Checking web for sign in page
+2023-02-12 10:56:48.178 +00:00 [INF] Authorization code: 4/0AWtgzh7GT97Cr-KtxCISDquyijFxHE_nNKyzB0WCaDAtmvBLGBPCWmGFReU1ivm6l-vcLw
+2023-02-12 10:56:48.263 +00:00 [INF] Checking authentication tokens
+2023-02-12 10:56:48.566 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsosBLvBXOwgSwgRjwJtDx9xG5Hzh4QVPU-9wgQI53eZiqO2kZhnX8AEsa-ipQwtm5w0kCnB4OgoG6NZRZc7ORFj4q4lV1iMtn8MI38Cdp4VB3IkUklM4S-gJYA1MapL8G2ZAxgU8V5PYn3PBUg6QmOAaCgYKAUcSARISFQGbdwaI4O9eM9X2-uhynKXQFU_cUA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//034ScPVKHZccXCgYIARAAGAMSNwF-L9IrZQn-nuTyNrw2WjaBkQsykQvrEKQRrjBY2V8XwpeBVl_3u2ZNupBitqSLAMMfylgMlZ0",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiNHE2RFRLd3FSUVZWR3JVVDMxVzlEQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MTk5NDE2LCJleHAiOjE2NzYyMDMwMTZ9.CcsHWC7tV6p9CujxfHUoP3nBTCmmBlTZc1fwNETFmTlLjhz5sbqrLGBdiW3EamOjAwuNI2AuEn3MlFbBsMauRHk1Bk--A4hMyCUaEy4g1_HjplsdWS81_Kktf2ggHIly-awEIX_xX-lRs0nOkG-7ZjNUTKPz-zoUDpzmMeB7z_ASQWTVzkjOmL1XsTeAmVdDlVFsRUNUyvKXFNzgC82Q-XjMRXQmZS9IVfaM3rB3hM0zzrYVuuZxp2wQdO8dcwxtMBrFubJemoSDjloWtKeomKqsy-ZxEK3yhk7K8svBy3_csgHBzoiBZ49HpjMwJKTwgDOOJ5dlNO-_5EsFQpSeyA"
+}
+2023-02-12 10:56:48.595 +00:00 [INF] Getting user details...
+2023-02-12 10:56:48.680 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 10:56:48.698 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 10:58:25.493 +00:00 [INF] Preparing data ...
+2023-02-12 11:00:27.993 +00:00 [INF] Saved data file
+2023-02-12 11:00:45.222 +00:00 [INF] Started ResultsTree
+2023-02-12 11:00:51.288 +00:00 [INF] Detected internet connection
+2023-02-12 11:00:51.306 +00:00 [INF] Checking web for sign in page
+2023-02-12 11:00:58.549 +00:00 [INF] Authorization code: 4/0AWtgzh5Q_JDbWoNAe_SXbiraEH1Rc8IalWjXcspSNieHLLV2jZxKZt4amaFPEHToX4Hifg
+2023-02-12 11:00:58.554 +00:00 [INF] Checking authentication tokens
+2023-02-12 11:00:58.879 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsqXm22qqUIHOlJ9gooJcxxjQXUOKl2N7aWevu7CMmKXmd8U00fIyGDM77vimFScjSMv4yfsV6KBQ4DDq52cReJxDMBIM2GIG_jiBqNpGEXWT9VF-mxhgKm1bAqBl3zA2TdLbqasuA59Sd0cega_gc3paCgYKAUUSARISFQGbdwaIHawpbwvDL4boxObyNKQ4Tw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03IuzfeWzHnquCgYIARAAGAMSNwF-L9IrQeepTS74SLpv6wy2McK1zlJR2Q2BwsXnWKaiKBfyxPHvHVEPfpCCJHBA2WKYyE9c6mQ",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiVkgtcWVzdXZDNjMyOGtDeDdsRFlmUSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MTk5NjY2LCJleHAiOjE2NzYyMDMyNjZ9.drL7zMJ-GOOz4uBEk86y4t2Jj6hU1rh6tuowbHdzfp_-Ipa30nU29Mea4KFzZ05vn2dM8aT2IDaHjHP4h0Dl6N4Si34HqRQUCzvaVK8saZcbSupg4eanMQnGoF_zTZ3TjfAq5BmvbGgPDeG5qfj77k9bqG9gHJxTMXJi1WBEoVad4bxWSTET4Cv1JjYq2yYClEPcHOJXKeM2HHN40x_mYlaHyZ3KKFVpaSloc8Cpm5HM6omH2-HodfbzjMw5ABWb4PncTtIKjIQS4jObSGDxBFCQbygMfeVTG-gRTOwiPzD0an3xavt28giMqliAQ1-7g03Hv7a4gFTQj8b93a86VA"
+}
+2023-02-12 11:00:58.901 +00:00 [INF] Getting user details...
+2023-02-12 11:00:58.995 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 11:00:59.015 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 11:01:02.636 +00:00 [INF] Preparing data ...
+2023-02-12 11:03:23.677 +00:00 [INF] Saved data file
+2023-02-12 11:07:36.764 +00:00 [INF] Started ResultsTree
+2023-02-12 11:07:41.651 +00:00 [INF] Detected internet connection
+2023-02-12 11:07:41.671 +00:00 [INF] Checking web for sign in page
+2023-02-12 11:07:52.523 +00:00 [INF] Authorization code: 4/0AWtgzh5dcBb1enQNROnmkwyAtWugr6XhjnbhjT5Ry-y8otBV3Qzkwo1KdfwFkIyQ7Eh20A
+2023-02-12 11:07:52.593 +00:00 [INF] Checking authentication tokens
+2023-02-12 11:07:52.905 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsoy-gIpzK5CQay_FIAmU0Nl21VP1yQdlBKqZD3Whii1FPnwrLjWVXgWRhbOdiVblPFwsRB2gysUzi6xhyoWmjeIms_fHaKYq3ijyynkm41NCqRBu72nzgttqATJcOjyM_QJAAtK_bl7iB35ZdLUukF2aCgYKARESARISFQGbdwaIaLLwC_WK39xBNOReZaB6Pg0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03ssmjjJFU90UCgYIARAAGAMSNwF-L9IrQtwYGDzVkxMz4mUkhX2eN6Jje18LYF_H0t54SUH1KX7nY0HGEO--7neMmyiAPxxlSwg",
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiR0Q2WlhIUWI4a1Uzd3FjN3p2MWJZdyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjAwMDgxLCJleHAiOjE2NzYyMDM2ODF9.kznJzD3i_2Dx9CcKJEEJHNf0qdOXBGo7i7YFAdeD2J9Gc42byy5CoUZXdH0vAvW6CqCLKp0JNhVWA3ajJ8uiqZzKYJDNh60CMGP1WbgcIpRb6uH1zDmoslGoEj1CGwHOjcTl5DoWHbR6gyyFPRt0UZQKLibAreu38H3Et1nYA54mKip8-tbD70llHnZdwZXT5GHeZ2gFj_7Eggf4XXqVZB0esaf8yoMWtUeILR0_3Vx-9dKG1NN9QM9-SwVFHedM6YHiW8mhyi32b3tbQzxaDcgrekTa0IlGqtruonGV9wvh-Zqu_Rhb3OYG6w9hRi134h9qT2HVv48uO5ZJduRp6Q"
+}
+2023-02-12 11:07:52.930 +00:00 [INF] Getting user details...
+2023-02-12 11:07:53.035 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 11:07:53.054 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 11:07:55.903 +00:00 [INF] Preparing data ...
+2023-02-12 11:12:57.805 +00:00 [INF] Saved data file
+2023-02-12 11:15:32.160 +00:00 [INF] Started ResultsTree
+2023-02-12 11:15:36.156 +00:00 [INF] Detected internet connection
+2023-02-12 11:15:36.175 +00:00 [INF] Checking web for sign in page
+2023-02-12 11:15:39.123 +00:00 [INF] Authorization code: 4/0AWtgzh7IXJzAIIokxpjJ9DetANz6PLCheN_RoNPiAur1BixumRIyFMvq3_05cGnnwILfDw
+2023-02-12 11:15:39.220 +00:00 [INF] Checking authentication tokens
+2023-02-12 11:15:39.526 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsrwWNebekfBas8JG1dZBTTQxV7KWlbkUXRbPqTrGDtoXPShDlVeWzplT7knQMk1hLDXYJiH6mooUcdqtm3tqBOy8FMPCwDKXsWTDpgH-51JzAl-TuxUR95F6RWM1D2K_cMtbOetKrIfwXxX4JOuujApaCgYKAZoSARISFQGbdwaI_CNUrLJmcOoxmf-5bGN1xA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03mTncCqUQ4KoCgYIARAAGAMSNwF-L9IrzvCClhFmIiUgshdr-2_tlgEWNrlN2atxkKNO0VQLRUBLgPuiL0OogJJ9UI2h_njcr24",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoidHpnU01TYk9KU21raDh6VTVxdmlqQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjAwNTQ3LCJleHAiOjE2NzYyMDQxNDd9.Q1BFSifcFyISe1bHJ6aOLQfkpB-wX2IqqyxG-C_uS5awwvUtzzs2zfvwGDevxU-L6yCmzShRfCHcPcI8lhnEthdpw9ScVHqyGu6Q_5oRySyHIO2dj9Z1r6SxrqZ9X3PczNRpDNI_0ltVIZgT8r0BHXul1zaY9UJo5gvPny7ObpIsArcEYsLzChickN3JUQGDHCfL4APZG-hX26A0YWf3R_pp6ESQPazDdmHm72N51S9V60f33-GNbPUVuxJRNstTAPSZMTmvBK-2uTwFcFLRUQkhpgGKKlBxhHH8FXYe0xWudeaFUSKo3MJoVOK-FXrDsmYRUV6fELeY9gN74fekcw"
+}
+2023-02-12 11:15:39.562 +00:00 [INF] Getting user details...
+2023-02-12 11:15:39.674 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 11:15:39.693 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 11:15:41.836 +00:00 [INF] Preparing data ...
+2023-02-12 11:38:19.364 +00:00 [INF] Started ResultsTree
+2023-02-12 11:39:06.941 +00:00 [INF] Started ResultsTree
+2023-02-12 11:39:17.849 +00:00 [INF] Detected internet connection
+2023-02-12 11:39:17.870 +00:00 [INF] Checking web for sign in page
+2023-02-12 11:39:21.365 +00:00 [INF] Authorization code: 4/0AWtgzh6qVUQHyqfGj4H5ssQKXB3kYQ1QKRC2JSrmS7NGULbr0cipadJRzrq6yd8atM4hew
+2023-02-12 11:39:21.369 +00:00 [INF] Checking authentication tokens
+2023-02-12 11:39:21.696 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsqyxyfMJUsGSXnNh4nNijm0wrS6diON2Od2IxB2tUQdcY_7wXgj7lKelLmVTqa9RQLV8QQV6Cu0CFdgOK27E9E42293TwHwzWOzSMGvqToVP5nw8yZk3PbUqwH56OgVNaSgxHifu3XDEJpgTdhfP1CeaCgYKAb4SARISFQGbdwaIT1Vh_yK1_uEM6jkpuyEwGw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03ruZcamH2ZysCgYIARAAGAMSNwF-L9IrxR2jR_KXmHUSxF40EySra34_oMM0NEjjXWh41_xm40xWR__dobdsLpqZBxlVSDeylco",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiVnJIWVpvcEZzOGtXOVBNVDhLZk1hQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjAxOTY5LCJleHAiOjE2NzYyMDU1Njl9.Y1n2K9VKbL-cLctu-d6rrFq1SlAGmR0Iim4_0sdWgBFXyey4bytKygTAMCTeKd7awTVM-J-vSbqsTNRZW6towf4vbYAALLwb0qyvXyShPBMZD9MMmluboMwaPNnpBbtSavYkq2cbWvQcxHqjRY4vKhye7hempbsQFgPQx0iMRmg2JXcu27F2tLDHCuJRzM0AiR8nCBSISoLpk-r1tLLZQt6xZhEJVgP3993MemOsvtvUrsvFkwFBZRWs09T35x23TPzytj7Bu1pz_McQ4nqiXpVBlLqjSWuV1MiBDM3sLsWg8FJFL0vEIuuCK00HuLBVXkaKNZozaZHflsD1lmmpHQ"
+}
+2023-02-12 11:39:21.720 +00:00 [INF] Getting user details...
+2023-02-12 11:39:21.804 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 11:39:21.822 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 11:39:27.233 +00:00 [INF] Preparing data ...
+2023-02-12 11:41:41.546 +00:00 [INF] Saved data file
+2023-02-12 11:51:59.409 +00:00 [INF] Started ResultsTree
+2023-02-12 13:12:59.918 +00:00 [INF] Detected internet connection
+2023-02-12 13:12:59.939 +00:00 [INF] Checking web for sign in page
+2023-02-12 13:13:03.490 +00:00 [INF] Authorization code: 4/0AWtgzh6Lx6T5AcdWLRpYKiQINfeMBoCBsffX1EZVpXam294RP73A5QQgfdaQCQd_U--USA
+2023-02-12 13:13:03.496 +00:00 [INF] Checking authentication tokens
+2023-02-12 13:13:03.817 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsog2l6ggufNsGPteY4jvAbcCX0hqDN5pyxFFSnnyaD002YAkFV29VUFZt2bN43OXLrTq3kVuW2CsogRAA0UoiRwXrVgh5KeHs3Eikh8-zM1qBGZnIrID2rvx-YI5xCcj5cmqWON1qCxLIh5RUX6Am70aCgYKAcQSARISFQGbdwaImAXmVuRzmY6SBB2thXXpsw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03l8ZlmxDVcXHCgYIARAAGAMSNwF-L9IrQB-yxFb5Wk3pM6It8Z0SGojBTEAH6Teyz6LUWt9yUSKq8eKyIOQMfS8GhuuGb5NI3GM",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiUkNYVE9XdmN5SXBNem9lMGdMOE1jQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjA3NTkyLCJleHAiOjE2NzYyMTExOTJ9.JVaD7iDrwhxHw4vEe2eTziYM1hMDUqrRPPZab3fYBYtIVZWSWwnn64ufDsw8gnuEsFUliv3xFfpeg1r9GxNlCwiTebISgQdVuO2oyu6AzNMcJV-J80KlWZJFRNN3z35rr4TseqNwEYMY0NyM32JbD0dJ7-zJwNs5sgBbKL2lHbm6ULd7-VFsMLLQRLnaozOpGqsMF_jacc-LOLKpqt4vfd3yRMOE4016N-k5QyG80duJ4EbpgxKpe0JDXed9g7lsu6jECkF-JQ1LlubFNjSb66F5u-y5c050m7yEdyYDl1Q_MymTbJdAet_JbSvKAbuYZLfuNGaa8gSmE04-BS2fCg"
+}
+2023-02-12 13:13:03.840 +00:00 [INF] Getting user details...
+2023-02-12 13:13:03.939 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 13:13:03.968 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 13:13:07.097 +00:00 [INF] Preparing data ...
+2023-02-12 13:18:45.683 +00:00 [INF] Started ResultsTree
+2023-02-12 19:05:15.905 +00:00 [INF] Started ResultsTree
+2023-02-12 19:05:20.771 +00:00 [INF] Detected internet connection
+2023-02-12 19:05:20.790 +00:00 [INF] Checking web for sign in page
+2023-02-12 19:05:24.396 +00:00 [INF] Authorization code: 4/0AWtgzh7KJau9CMLpSyhgE4_pvyrL67aM9j4gMt8vAAxALxMNhutebfKMLQbVd3h8GyH6fw
+2023-02-12 19:05:24.419 +00:00 [INF] Checking authentication tokens
+2023-02-12 19:05:24.726 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsojpCuxHtuKehZ6vJ1TGIYgFaWf_vO4GpqSPWWiNb8J_6S1RBpSm5jBnYB549BbNNBZ-e31_KQyyhr5_n9kpG79EFbml9PTOHvR1a0dq_4fulqbzct2FF_oSsGYMqaNCJuODai39nXwmdNg7VES6U-1aCgYKAf0SARISFQGbdwaI74ctaE9eLOIMwYmopWLv8Q0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03RxuNOJNzIUqCgYIARAAGAMSNwF-L9IrVEOJqAULp3lg6QpX1LwOZ7Ia39ih3rZy1fiSih3HkTe4bJwsGNgJEzNHKuJ2FPIGeAE",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiT2lmZ1NLNGZJM0pCUFNMVWs1N29BdyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjI4NzM0LCJleHAiOjE2NzYyMzIzMzR9.kTW2qJ2jYf9PpLIvVMfla-Tgd3Py0xAkF2305OX6A4qP7WbYe0A01L2s_q9L4NNJAz5fJxsmD6WS788TmStepd7n6vamBZ_tpLkUTkIwTGmFqMv-nL2gXNkJcmJ0NWtCEiiaD4NbEPZ9XL96_Rl2Zoph9x0O51SLk2jbI1kR-eFLeVAcWoZU68OQK3gL2PiiC7eqJtCugce9WW7FDXMe0f3-e6zbikey2-g0wIHc4feavrF3kuru9jqqg0BbKQOeh9rv26SqyCbhKApivi2v4P-B1xvA6a4iIHehJCNjXKTAnX2D0BLCm8w8tQvdU2GEAK7DSgw_MycRFqSHbwVyVQ"
+}
+2023-02-12 19:05:24.754 +00:00 [INF] Getting user details...
+2023-02-12 19:05:24.865 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 19:05:24.885 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 19:05:28.402 +00:00 [INF] Preparing data ...
+2023-02-12 19:19:51.116 +00:00 [INF] Started ResultsTree
+2023-02-12 19:19:57.554 +00:00 [INF] Detected internet connection
+2023-02-12 19:19:57.573 +00:00 [INF] Checking web for sign in page
+2023-02-12 19:20:00.268 +00:00 [INF] Authorization code: 4/0AWtgzh4LU0xoAWTrcVU_lLqoeQ-V_tMkhUE2XeYNpoNFnLw53vn7qTll7SxQr7tmbJRt-g
+2023-02-12 19:20:00.295 +00:00 [INF] Checking authentication tokens
+2023-02-12 19:20:00.632 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsqXiy9nDqCsHFlkljGlRRXEtJ08PB_rc-Tvh660cAdPxmY2FtERctjVGdavDK-Q3bV_brayi7DKi2k-yt3D4L02vaVIr1l38fTnlaodRmQ6AcgnqbyxZFq4z-cvvU7NJ9SYDurmdKCyULkdfjvQSWrJaCgYKAdsSARISFQGbdwaILHKnjQJ7m-izpXJ8uD5g6w0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03tPXo9LLh4gMCgYIARAAGAMSNwF-L9Ir98iacNADXhIiLkLXNtW83ht2FtRaZhcI1GlKlSE1TyvRwx3kESKj60tDIU6YSHFEhjM",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiNVlIc19jQ0xvS0FEY0tCSU15VThkQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjI5NjEwLCJleHAiOjE2NzYyMzMyMTB9.xceM7OgabbQPloBOUsZWcf7Avb26h_YNKFtrawMMLS5t8yBHJiH6oO7PT9diEsJ7N3cK6pp-NQioPWUuDVYlLxjanSOlmxdLM3xcEp4KJh9TAGpU9S6uAdjAn9kGQJQIV75poeYbVk4DpqEjIZcnxq7WO5YeQLUdRB2JigDi-oAoP0D4Flsh2v0eiIuTWpFKWeqKFHR8yHc9ZuvFDzcVf6_ANd08mV6eppFGFx6zOpD71t5hg8cVhw6bOOqYs6yQV646QlV4wUuTXWKLpAl5xVNhdid4eiNvvkJSn2VoUIW9pyqfU2e0gouUFr2UeV_5Ftyb3Pkg638hua-gKaUdGA"
+}
+2023-02-12 19:20:00.660 +00:00 [INF] Getting user details...
+2023-02-12 19:20:00.774 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 19:20:00.795 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 19:20:03.661 +00:00 [INF] Preparing data ...
+2023-02-12 19:27:27.163 +00:00 [INF] Started ResultsTree
+2023-02-12 19:27:33.061 +00:00 [INF] Detected internet connection
+2023-02-12 19:27:33.080 +00:00 [INF] Checking web for sign in page
+2023-02-12 19:27:35.738 +00:00 [INF] Authorization code: 4/0AWtgzh7a8_-kHl5GydUuJsz7SJ3_OhpDbvk4oEnIg5b1hJVwyNyL_xSR6XXFXMB2Hfucjg
+2023-02-12 19:27:35.742 +00:00 [INF] Checking authentication tokens
+2023-02-12 19:27:36.054 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsoeRqYN65ot71o77XnLHo4qya4WZp6Lq5ubYlYAqO455hdZY8A2zAvC344-endjHFfPmyCJODQfYc7GExfjTOi8tS7qyVj9DEtq21I5P3pVU6Zn1O5zCBOqNipd-rdYERE03Hy4P0XAMPS9TODpLiQvaCgYKAXMSARISFQGbdwaIXIwxiNxb55RhBEu8MiGJIQ0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03qWUbMy96d7pCgYIARAAGAMSNwF-L9IrBY3TUemI0qGr5aPMZ9FIhBoeaZMU_b3SdOLfL9s27ziP4YxL-ZNUGs6tLEAuHbq10dM",
+  "scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoid1F6alBMSmJWdm5Ubm5WQnNfSTRfUSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjMwMDY2LCJleHAiOjE2NzYyMzM2NjZ9.xU0uFnWuDVLS3yCF_Pj60Iev0CmW1XFuA97kiAqax67Fzlt-ade70t0kzESi-ULSEJUxky7AxNrRi2UCXsZ2Wonb51vRWjqXpva1ovJcpyL_e3dSh10ERbnqDJxzHYmMqzEZmCwvXmw3KN3_UIMhgJiOLgXMe4WPVdy70yAJrfsfxZZwLdejdl2CL9P78PKOPQCUqQPl9Gx1oSXWcSSXBKS30XiK5xJznmRfK0bdnsHqSTSweTWUMxIEvIYH8jxSpHB9z9blIHEXMyMSnkcsRwtXd-0NA0uKentp8uVrapWniJj1BL_SAvq5O7PF0iO76XmgCu8evTMwZ1dQLrmpSA"
+}
+2023-02-12 19:27:36.075 +00:00 [INF] Getting user details...
+2023-02-12 19:27:36.182 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 19:27:36.200 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 19:27:39.292 +00:00 [INF] Preparing data ...
+2023-02-12 19:31:32.503 +00:00 [INF] Saved data file
+2023-02-12 19:46:58.632 +00:00 [INF] Started ResultsTree
+2023-02-12 19:47:03.571 +00:00 [INF] Detected internet connection
+2023-02-12 19:47:03.592 +00:00 [INF] Checking web for sign in page
+2023-02-12 19:47:09.107 +00:00 [INF] Authorization code: 4/0AWtgzh5GRw9qgMYhj0pjB7FXMwE1Pe4m3-D9n3v0oxMqX-LlnpLcyQMXmvMH0hGqPmEczg
+2023-02-12 19:47:09.112 +00:00 [INF] Checking authentication tokens
+2023-02-12 19:47:09.432 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsojRP5BYBr2bfft_WlTQPZd22A8q9-HvN3pSat0iApeV_dTjoQUhHXh5aZPOYIef1FqYoxGWJSOiSq0XKI2Kao9_CDUr7LgdcAdC44YZ6LS_iOytVeFExflgXTphGnvpUPlX0sb_68ZGz60YL7Syr89aCgYKAZgSARISFQGbdwaIQYU2g1SpOChlO-aHoQJAvw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03tn8Jn3l2Rj3CgYIARAAGAMSNwF-L9IrQEams_yUdjRptF_1b9dy49jrORrWoLVAPlMZGy21E9RiYfxLOGHrz-kyfyCUsZMJf-U",
+  "scope": "https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiNzRrbFN3bFlkWDgxcFhRTHI0Sjl3ZyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjMxMjM5LCJleHAiOjE2NzYyMzQ4Mzl9.TDyfyJHzro7picMKYGhIhata5KaMKZVheVTxhF5O-uai5Hpl9YjOT4tOSoyXSWkoOG053zEg4Fytx9gzAsGdCA6_QDp88QHSJF4ktJ7r2xIcUCBqSnZZKtuhQm1BDQc1Pd83otvMW8x-Rj5gnEe6UyJ1JjjjGnu98xoSfeflz7yUX48j4lE4D0AtzMxie4CXJf2xIzdezqUsnz0VngoZmiZVVWqXMmVovm81WybT8Zap_L_qN_9UNgRCGilMbZgbVYmcJi1xaMYbh3CY80OVFc7R2Cn9UFllmApjRFp48S58vj2gkVO6ZY0TF8XZHI-Arj5aY0wNJV5X9Om9qzv3Tw"
+}
+2023-02-12 19:47:09.454 +00:00 [INF] Getting user details...
+2023-02-12 19:47:09.557 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 19:47:09.575 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 19:47:16.920 +00:00 [INF] Preparing data ...
+2023-02-12 20:00:02.522 +00:00 [INF] Started ResultsTree
+2023-02-12 20:00:15.209 +00:00 [INF] Detected internet connection
+2023-02-12 20:00:15.232 +00:00 [INF] Checking web for sign in page
+2023-02-12 20:00:18.356 +00:00 [INF] Authorization code: 4/0AWtgzh4-IDh-gS7X1hZNPRmbOw4vkhf47uTatyWEIbDic0dFgAoXU63osR2TJ-7QkEDPAg
+2023-02-12 20:00:18.361 +00:00 [INF] Checking authentication tokens
+2023-02-12 20:00:18.714 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVspeFQ5ey0W37_K-j7kr-TiGf-1VQk7IBxiAcXm5fv_472-K487tHjtWe9ElignQoc30jaaljfAUy0hOT2jdX2Ghd_Xf3jOBbFo7q4SV3ObL4w5pqHo3B1JAgF5NF68_DxrlcpTlE4ByESTYVdJHXuxeaCgYKAbwSARISFQGbdwaIsgDEvRAqyBV_Rr9JXznKfA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03Xp4ftYG9dfJCgYIARAAGAMSNwF-L9Irv_AES6VhRteDARYROOfM8EzaRtkMRUXC6-awxyS20qu3nJ4TUSKOiXlgc5t1nVnna8s",
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiMkd4VDN4UUI3NUhvaExSN1ozbmFYUSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjMyMDI5LCJleHAiOjE2NzYyMzU2Mjl9.OGgUYRjw1GuBh7UASYqldFckIxIJkc0SADQlT8wWUv6sWd4NgJJ-QyACZL8BkDlPwbZUUIsvq-C_1h-dIUGDs_HnUI0x8oX6HRIPvXx9lXp5glIuLz9eYyi2W79Q_X3ih_2qyJvowJ-4X2fcYiaGyjsnpSvYxpIKIZvAe3U4NNjD3wd0ihO1xL78czdbG_hcyqECjp-7PzxXuPPKHFcUpSmLzZtVadqfu8C4gpmI9cFHj9vNpSrVhvDX5I77TjkRUleuSdMa7JMsWNqUVrxUdIrV_8JztUTrfntRknyDRzXjajYNBElS9un_yenYClgEjnvN95-DOL6vA2QykmHpmg"
+}
+2023-02-12 20:00:18.747 +00:00 [INF] Getting user details...
+2023-02-12 20:00:18.881 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 20:00:18.901 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 20:00:21.494 +00:00 [INF] Preparing data ...
+2023-02-12 20:01:52.303 +00:00 [ERR] Exception whilst saving the Id Map in Azure
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 400 (Bad Request).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at TimsTool.DataService.ResultsDataClient.SaveIdMapAsync(IdMap map) in D:\projects\source\TimsTool\TimsTool\DataService\ResultsDataClient.cs:line 99
+   at TimsTool.TreeWindow.SaveIdMap() in D:\projects\source\TimsTool\TimsTool\TreeWindow.xaml.cs:line 318
+2023-02-12 20:07:14.501 +00:00 [INF] Started ResultsTree
+2023-02-12 20:07:20.226 +00:00 [INF] Detected internet connection
+2023-02-12 20:07:20.250 +00:00 [INF] Checking web for sign in page
+2023-02-12 20:07:23.211 +00:00 [INF] Authorization code: 4/0AWtgzh5q8AEtN1R6PEf-z9CjClInjExYxp-iU59OtmCp2uyVYAMueaa6SkvIcJGd5YCP1w
+2023-02-12 20:07:23.214 +00:00 [INF] Checking authentication tokens
+2023-02-12 20:07:23.552 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsp7PSFZFWnNPLK6iDdzM243PT0JyKLEXLFJc_qKJxnxbjnNYT6ZV2UaVXYHd1QmHXh4DvxtWqKX9GrqtlBv3jvwifmHmaSQPDV_GGzAm0ggq3qdBZ04rvdUFAK0BoP61IxgRDmfe38vxdiTWd58ZoUKaCgYKAQMSARISFQGbdwaIqKylJkJv6t3NPRrFbAjnpA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//036CzjwAr2jiqCgYIARAAGAMSNwF-L9IrjCHdAn2iuepz-dab8-YG-XcSz_yWFgBm8D9lAgKnRi9ZLlXBoJRoUZ8gLooFVwuwEvA",
+  "scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoicVp5VGdVTnhLd0YzT2ZCQU1VYkRnZyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjMyNDUzLCJleHAiOjE2NzYyMzYwNTN9.PJJS_5Syca6aQmxXuNH6fHAnpdshTld3eP6K5nerXQEzTs83Aqp65bP9FwnVQWbukE1fOKYYhyvAr6lL7-8FIuFFaI_aEPEkNDN8X2Rupdb8pKI5LOEQT0bXtem3vRsXttIcbtUilpWsfWA5eKOiG-uKbZtamtBazikvW6CNMcovlsM5o-08FdCgra9rZ0AMa35BEcoLn-HWa-1YixZfxFM1cqQa5_Jg9zTAmcQPIk789inNFd74It23UuJ_eiWftHXTmj8WCEq4_tnzDiImrxR3QOdWmGpK6gl-0e4GbzHQvxMb3v0UKSfrMVBlxdIjs9dH-aHkWQh1DbQQmWBcxg"
+}
+2023-02-12 20:07:23.576 +00:00 [INF] Getting user details...
+2023-02-12 20:07:23.672 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 20:07:23.690 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 20:07:32.884 +00:00 [INF] Preparing data ...
+2023-02-12 20:13:06.222 +00:00 [INF] Started ResultsTree
+2023-02-12 20:13:11.560 +00:00 [INF] Detected internet connection
+2023-02-12 20:13:11.578 +00:00 [INF] Checking web for sign in page
+2023-02-12 20:13:15.711 +00:00 [INF] Authorization code: 4/0AWtgzh6ynzoxjDUYmUI64kkCfLeQ0XsU55yRfMRE_IAMoPbEmE1-7klF-TCZmlNDuaSYPQ
+2023-02-12 20:13:15.716 +00:00 [INF] Checking authentication tokens
+2023-02-12 20:13:16.027 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsqgUenReNtm1Ighw_dg-Uo26iybQwVtnod8gSSitrz-9avPz4iHrkjcivhNvroQOXf1gD6Lf0w8XItxJRXv1RvM-Jd68jb7waCK_rlN8jaZ2n4kBcP1GZKhEUHbYRLdGUKX5sVMvNimMM2GF32TvFzzaCgYKAVYSARISFQGbdwaIZrmye810-F18PFYvGxuaqw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03BeUxVOBaWIaCgYIARAAGAMSNwF-L9IryP9-FBQ91PLYU3KmZ4t3RdJRpfJKiCPPdWEpDvHRG0G_WO7vd8MBuYs7QBDywlodkFE",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiMmZxc1pVeXV2S202SUFwTkV5TUdKZyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MjMyODA2LCJleHAiOjE2NzYyMzY0MDZ9.LIiyl5-wNplBU7iFGbfMiC4HQBdPC8pzqc09IvxfdJrrur5opYnbJUCXrN04IZ_mqUDuyxhoZSpmTrmaJQdmZIsO8-L09gyxCw5rfpM8P-vtbkpLY4LhBwZYlNee06GMaSW6NhRTIcFT2teqC_HvNgLp1YVeoJXmRv7890KqS_HqoLY6q3lpCAHMmOIKhX63vv4dhhpuUua8klu_SV_zuohRNYlOtb79o9JwA9vwOaIyqX3MyIAmWrPzdi-iSivvgZLwvTOMsnjSy3IYCWaHtgg8j6gw_7-tkI96RZM5OcgqnmpU5DI__H7RiJZ832sWxleg8mqmfEtrBsPpTvsong"
+}
+2023-02-12 20:13:16.049 +00:00 [INF] Getting user details...
+2023-02-12 20:13:16.131 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-12 20:13:16.156 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-12 20:13:28.447 +00:00 [INF] Preparing data ...
+2023-02-13 10:32:36.452 +00:00 [INF] Started ResultsTree
+2023-02-13 10:32:50.234 +00:00 [INF] Detected internet connection
+2023-02-13 10:32:50.257 +00:00 [INF] Checking web for sign in page
+2023-02-13 10:32:53.207 +00:00 [INF] Authorization code: 4/0AWtgzh4bTccNqwjx_ElahmpvQYHXPPidnR4GOnipvbXJhQd0ZD5G_DoXpFENaRIbs4lx3Q
+2023-02-13 10:32:53.289 +00:00 [INF] Checking authentication tokens
+2023-02-13 10:32:53.607 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsoVCcoDJw0aJsHRBJBEge1q7CXZ9uqhGFqcGW5cuB4dU3vTUEVRs7VwVOkFvU-C_R-MnPxekSe2hPOZdQmmKLEYkEn0AAA1mU3EV5zDRQYcgJTlcdUXydvWfkPitqmtbSaGn2RXrRCk79E2SbojY4olaCgYKAcASARISFQGbdwaI0VN0HzwvxTKCnudl6AO7VA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03SiwGLievbjMCgYIARAAGAMSNwF-L9Irn_aLivBxMoE8rowT2iFb71YvXKuTeeB13o4c0X9LHOXu1SFz8Xa9j4qDDRDlcMsajXA",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiV3FBWTFWcVZmX3VONVlRQU5MVGpOZyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2Mjg0Mzc1LCJleHAiOjE2NzYyODc5NzV9.bLRFAc_dEsDiOEhNMvNwZfo_HlriNsmssRflIL0lS3J46tjDCUcZ1l6WyQrAn87iC1l_NjKiZVa6RwuUhBnrKq0clUcWqtAomiy_7xroWl5ipfR1maIWKS1Q1V3oORpMLuyzQDfUEL9vAh6XxEyNQ41-7lIlmN35YKht4EpGiCjBpeK1V2S6l3M7DaxUZdpMy014SfgEQLYlKW3bwqwiCdpUY62__7gQEGEeLFXWPAOOI26lUWDQd4y87p2RCMe2AblKUztX1XYgxfYw5nGySKwjhJbU678EGYGdp8uCKOF1cTDqe4mseIJPxjUO0bgFNHp-yd6wW_Gc1_fitMWKYQ"
+}
+2023-02-13 10:32:53.646 +00:00 [INF] Getting user details...
+2023-02-13 10:32:53.749 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 10:32:53.772 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 10:33:03.113 +00:00 [INF] Preparing data ...
+2023-02-13 10:45:16.760 +00:00 [INF] Saved data file
+2023-02-13 10:45:39.312 +00:00 [INF] Saved data file
+2023-02-13 10:46:39.795 +00:00 [INF] Saved data file
+2023-02-13 11:30:36.887 +00:00 [INF] Started ResultsTree
+2023-02-13 11:30:42.785 +00:00 [INF] Detected internet connection
+2023-02-13 11:30:42.819 +00:00 [INF] Checking web for sign in page
+2023-02-13 11:30:45.852 +00:00 [INF] Authorization code: 4/0AWtgzh591NPE4-4n8qxiUCK2qIlLCmvyDX9OV2gXKKF_vdb-tFhvggTbMrTTOEzeIi2ryA
+2023-02-13 11:30:46.229 +00:00 [INF] Checking authentication tokens
+2023-02-13 11:30:46.533 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsrJ5OnIY5-nlFOY4Ir5GxZyllNDpGm9zQG8Luhy-tOqT1ymtS9wI4S9rLw1lj1fRL4ccFcOmAO2XPAY8E5XbSefyusciqV8SHnFHJ7X5mlyXcD8TO4QlzmRvbsGp24NxD4F3Ji9S5nudC5kxaRso4LfaCgYKAZwSARISFQGbdwaIKTwu_H6W_Y8uHwVLMpZuyA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03MUXCy3Cbh-7CgYIARAAGAMSNwF-L9IrMyUUaOE101VG8_uoq-enlfSuBRacoTdjUQFBdAMnPEpMJlsEc4_HMFrKw3iMDua4Kvc",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiS1NIaVhUOXRjRFhTY2prUkxxOGFPZyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2Mjg3ODQ4LCJleHAiOjE2NzYyOTE0NDh9.Ru1IMWTtF1dxl09UxYfsvI1hMv2X171dR52zBZI9DbRctMm6-cp9u7LjyhlOWa9zhZB7Yv7y9XQwaSgWaqCckBoC2zTdrEYUboOE0_xMxa4XuH1T-drwKBAsR8_lRD_nvhG-J36VweJUrOT0JAyOr-aUnU5dJjyi0RLY3tgxlZt0jVc4Z_EbxbQkbnwVDOX1gkiJUOF2D2fpbsuwisyFlqmU_XkQS9g0M0UNoywGHShG1GlNxLb_CiIVhO9I9JbGekbklXDrdT62rRpsImuom-FwBxNwDUeM7vxB4jTkgCmtlnvQwpDJ2GkZDDNl7ZnRSDnjeo4lTifQNdjkn0YwFA"
+}
+2023-02-13 11:30:46.555 +00:00 [INF] Getting user details...
+2023-02-13 11:30:46.660 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 11:30:46.679 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 11:31:01.119 +00:00 [INF] Preparing data ...
+2023-02-13 14:46:27.233 +00:00 [INF] Started ResultsTree
+2023-02-13 14:46:45.068 +00:00 [INF] Detected internet connection
+2023-02-13 14:46:45.092 +00:00 [INF] Checking web for sign in page
+2023-02-13 14:46:48.749 +00:00 [INF] Authorization code: 4/0AWtgzh5gmAH-B-QNF6v1JyX-JVO5vFV-rqPFhb_VgTQ3CLDFOqOhJ_zsjC4ptQQVoB_M_A
+2023-02-13 14:46:48.765 +00:00 [INF] Checking authentication tokens
+2023-02-13 14:46:49.245 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsoKRkoMv2cHXfPjT-k_miy15t60A_PnMik2tjWx314HCIqZyDHPIlElD86VwSgoGU5utHbRFiWBKgtT1wsNOmoWNiGGL6sPp2eiAButzAE6w2ef5oK6GiZ46jdjRyFDeOr94ON00ZfyeEZMKOaz_G1FaCgYKAYESARISFQGbdwaIZvyJxtmd5TNL2fXJBHNnyg0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03jcMFMZdqoFcCgYIARAAGAMSNwF-L9IrR7c6Ushv8_gnfvInl7V2KfPx654JCfvJVoE4CO2jOjRaTz2C2EkxmP-TsZyCIQxXJ4U",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoibVVzWFM1UU1rX1hSbS04NXFLSE9TQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2Mjk5NjExLCJleHAiOjE2NzYzMDMyMTF9.wvzxIJCAPwfXUZDTZNGNpY2kCNEsuxmskQREmxlh4KRo6RT9IIYJrVw67xtMHnPfT6pMMjbXc8gzNLfnWsZku67Sz2OkgGdzq5g3vmJrtdJ0Jkmg0d3qdOgZX8N1vRrSy2ILxD8xuv9ymplCHXn66e2PXRLEEi50AjSApWjsx8z3QSxshAFfAGDKBxTBZCoNRylA4TAVCnB8vANA7QHOO9-mqgv23YNcvKj_fF1QBQGgF4UM3NIXsxJOsu9b6Wgo0U6pE3wMNA_v-2Gs3qdnmHU6EqPRpYjNIA1HmjRzEfWbGoQTzswZK9tn3TDT6cyjyn2mdLEahKUzdbqN7Y9JnA"
+}
+2023-02-13 14:46:49.323 +00:00 [INF] Getting user details...
+2023-02-13 14:46:49.428 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 14:46:49.473 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 14:47:04.013 +00:00 [INF] Preparing data ...
+2023-02-13 15:07:13.402 +00:00 [INF] Started ResultsTree
+2023-02-13 15:07:17.598 +00:00 [INF] Detected internet connection
+2023-02-13 15:07:17.616 +00:00 [INF] Checking web for sign in page
+2023-02-13 15:07:20.697 +00:00 [INF] Authorization code: 4/0AWtgzh7h9P3jtDZ0lP9jspjaZ1EIM1I5DRWjx0OvTEhx34AUKmi2f9ZGJGtkCatDS84GZA
+2023-02-13 15:07:20.777 +00:00 [INF] Checking authentication tokens
+2023-02-13 15:07:21.118 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsrQ7Hi0IfoWdXOPUB_d_Amh1iefSZ_Ep6HjYzLwr4rrygLhp-rmd_2XiPLizDzM5KjdQW8VwH23pKTztc5XaWH2cdosHwE-OJ-ncvlZFgs5je9I4eeaVd6Qn85RsLSJYwHoJpBAPDKeYwYkJdmKo5lUaCgYKAe8SARISFQGbdwaIk8yv4bNDSCPSmpbLQKFxrA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03Ydj59lugWtCCgYIARAAGAMSNwF-L9Ir4-XJcxk-9_6yrJJf6uSpuSHjd1DGl_rAURBnhUrSJf-NRvKLRVo7s_QVBdGcf5iZtt0",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiNEw0Zk96TlJ0VHFtNGxfaE9waTZvQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzAwODQzLCJleHAiOjE2NzYzMDQ0NDN9.uS_UCbqslCjJGkKhJvkpRT6Z-9_t5mPv1wINrSTl6NW1yQQRrWOZnGoT_1PpcYyS8F14truLyd2jYuYI297fbuS-xCybzbRzIDqbnaMa4KAbs0G71Uq1Eg60XIUL9Eah2GK0AVFXVEXtZ2Q_Um7nu0VyeooSPFAY2Y9rMOftz7-QpEHEA0F6McUXo0NOllTBRpu184ObY5UMkLmoiwIoCFjXc6KCSVPfVc8cp4YNzlgPpxk-_UDrw6nmw4pdLvGnSnlLaShNj52yXBZWe_iltlgIoR6HQuyw6VMTPoHXXWBrS9LkymSqf5A_iwm5CM-0AS9b8Ly81ytZFFklTBLZow"
+}
+2023-02-13 15:07:21.143 +00:00 [INF] Getting user details...
+2023-02-13 15:07:21.407 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 15:07:21.438 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 15:07:42.765 +00:00 [INF] Preparing data ...
+2023-02-13 15:14:48.874 +00:00 [INF] Started ResultsTree
+2023-02-13 15:15:00.094 +00:00 [INF] Detected internet connection
+2023-02-13 15:15:00.116 +00:00 [INF] Checking web for sign in page
+2023-02-13 15:15:02.651 +00:00 [INF] Authorization code: 4/0AWtgzh7QUzWOAOL619A8ul_Gh5SvIWGjBiwmytrWsnBNWgzpUMyZuyjM200rg_Eqz_nZcA
+2023-02-13 15:15:02.656 +00:00 [INF] Checking authentication tokens
+2023-02-13 15:15:03.030 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsqBFB9LvJp1PtT3oYN4w_DX_sP1-MHN8LgdNoV4ln8EgKel5habDlJzn3PDK1wYBdDolTyNotj1azxkohJ5y-cu71QYenxsVZpXt7MqTE1gu-Bf1I_6lo59HU65jxM3zCJLLlZjwLpe1PifLEVyz1imaCgYKAQcSARISFQGbdwaIScthw9RxvLKio9gJpVQjlQ0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03Ww4QCYHwMS0CgYIARAAGAMSNwF-L9IrBpjoVT6I02m4C4dy-JhKX5nBUrF10llIc-BCHNnfPSIH_L7NWCTAEjTrpOxNIBEEEso",
+  "scope": "https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiaThjMlJ2LThvOG0xbHhjM2VQS1hKdyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzAxMzA1LCJleHAiOjE2NzYzMDQ5MDV9.F_mJIseZnYJfh5cMKcH91MIGlwDXY5z2MdE6yzkKGV7KAvXqU6SAfjOj9zSBZoehXWpGkv1JCI-rfl_5SI0Yp1IvmCkKtUar5pQOUa2DrGYNnY9ssafJDhOgISDcmBeWJXl5i1Bs8oH2UT6NvXJMtI691z9t36w62aMZDVn8BoJT_TM7hENDfesFzRQ-1iVW6aBJbtqObRz1lwbxsWKHNTrHlnxV2UGIFuPjhUsEnxALAwgMU7U9e7I9eB5byd6XvLwY-wOPYYMwbtUDaFAJ6gINtLdBXoOwLrAE0HZr_5qemTXCWqaqfVWnR1AdNMccKHhExxN1bgC1jdBk2My79w"
+}
+2023-02-13 15:15:03.054 +00:00 [INF] Getting user details...
+2023-02-13 15:15:03.173 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 15:15:03.191 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 15:15:22.765 +00:00 [INF] Preparing data ...
+2023-02-13 15:30:41.255 +00:00 [INF] Started ResultsTree
+2023-02-13 15:30:48.385 +00:00 [INF] Detected internet connection
+2023-02-13 15:30:48.403 +00:00 [INF] Checking web for sign in page
+2023-02-13 15:30:51.330 +00:00 [INF] Authorization code: 4/0AWtgzh4uGMqDNZNWPsJBypt9IenVREX7--ZAtHC9XmeNlcFF6YLgSdf_8YwlkYsoWje1Bg
+2023-02-13 15:30:51.335 +00:00 [INF] Checking authentication tokens
+2023-02-13 15:30:51.657 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsoish_Cu-hz5ZfuTr28ZYuVo9BoRHzmCJR25aZdX9AJEEkGPaBO7uYZpTMFdzaT08J7B3aiSEdb-wu-EGRmtV1rGzzhjXmS4eUSMAI_vA8tV82KD0nqW5eKd2ZoqWyzeRQTbTt9G4AekSiys65ExQ-4aCgYKAfcSARISFQGbdwaIycJN3XeGxjiQ4m3JdkGbKg0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03r9iNT789em6CgYIARAAGAMSNwF-L9IrZfVqFEm5X0ykutvJpnLYaVqNQJSQG-Mx85T9ppl_NiuMEZ-iXNKlu4ulXuUZneu5A88",
+  "scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiRWg3dERPTHRVMXZoRTd5akRrTFVvUSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzAyMjUzLCJleHAiOjE2NzYzMDU4NTN9.xv67zzaL8WbMCqQKFXOeD_VCLnE6mb2Td2sWQItv8VyzP-TakYYup0PKmKDb15_DKgOV1na7pksMr_EgGxUwcPvmUwnAg13pcgJChp2ZQOepCXOi55TPwoMQNMsN1Swe6vKrHXOmHPU0WbrQeoiXxk_LXVd7DhYlGpaPaK06jHZPKF4CMI42Grp1ZbRM_J-B5pHD6V76nOR8KBFNwq_6d_z8pCooPV8ws5Vc6kWruTM8cEMdQubCzM6p_50TP43Hk_koJG0kjwEPivk2mwlIQ7137TGeb6vZ1afhBnf2S639h2vVezqrovnKGW_Vvl9xSIIVIOIKHWpwLmwZ0q0X6g"
+}
+2023-02-13 15:30:51.678 +00:00 [INF] Getting user details...
+2023-02-13 15:30:51.791 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 15:30:51.811 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 15:30:56.097 +00:00 [INF] Preparing data ...
+2023-02-13 15:44:20.020 +00:00 [INF] Started ResultsTree
+2023-02-13 15:44:26.011 +00:00 [INF] Detected internet connection
+2023-02-13 15:44:26.033 +00:00 [INF] Checking web for sign in page
+2023-02-13 15:44:28.777 +00:00 [INF] Authorization code: 4/0AWtgzh7LyxibcGjNxGVwhlL54PU5b6qjcPRLQFdjjDrrz_eX6Rj2DpQ_lyrERRVQrNHRUw
+2023-02-13 15:44:28.804 +00:00 [INF] Checking authentication tokens
+2023-02-13 15:44:29.136 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsrZuXEWegebOb5qijKnvXiSeYFR1e9FPz0uQUuFBTh56YTR9BbfmAB6n1-FH5b4uf11d3znMw1Cx9u0YoDLV6gvKuG1s9BIRUsM4zAtn5by5H9iGe4yA59ycTGJJtkmBwZzzqcMzYf_xcI3H1_TnxRvaCgYKAbcSARISFQGbdwaIh7D_9PGwpQCV_wDMks-0UQ0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03WOaV5mPL68lCgYIARAAGAMSNwF-L9IrT7q6-Y_g7fGVecj7SAT9GCuEXBBeK9X2ze-pXw8M2gnEUx9jG_6wj4I5heazI6xakik",
+  "scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiMG9LWHlsX2dzU1RHRVVQM2ZBd2NvdyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzAzMDcxLCJleHAiOjE2NzYzMDY2NzF9.SJdoj3OfpUFoZ5vSuu66YbazB5WJ8FDwZjfH463qsUZrwgDOGGzwgp2j6s-h5qDQo9-34MI-gTnLcD-wPFXJf5f8slD1zx39nqpb3rJPsM9EyoLq2ibVtuWSSLRb-V2cRWFWAYp1s5vppTjRYqciWH7wKjqn0g362CWHsL285bLeSxt4ffKTBvth-GSDPD22zNRDAShz6ukTBJy_LMpe4ghsoVBmRwOSmpR0t0aMgrT6-OpKj41AlzAVFLQKerjYlhR3oEDFJBXfNZAdCKomexk_iddmEOXTuJMPoABjV2V4jiVR8gP9cZ00rC-EWI0wbGMWDBSc-6aqx4oyds0X-g"
+}
+2023-02-13 15:44:29.167 +00:00 [INF] Getting user details...
+2023-02-13 15:44:29.279 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 15:44:29.297 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 15:44:30.846 +00:00 [INF] Preparing data ...
+2023-02-13 15:52:40.762 +00:00 [INF] Started ResultsTree
+2023-02-13 15:53:00.061 +00:00 [INF] Detected internet connection
+2023-02-13 15:53:00.083 +00:00 [INF] Checking web for sign in page
+2023-02-13 15:53:02.998 +00:00 [INF] Authorization code: 4/0AWtgzh5qYwJ3jBBRLSrfrAFVpByJl2g2s9z6R0Fpanyk0S_-VkIRFFMod2KTI8fU5wTbDg
+2023-02-13 15:53:03.002 +00:00 [INF] Checking authentication tokens
+2023-02-13 15:53:03.394 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsrUKhPK014QimWRIvOeppwu9Mz6ljvBNckASDz6mYEo8pW_S5sE7OuSjJ6MN_4HCtVogOMCrnCU7evmgDbMwvhAzAA3OKKHmnOcgHKnYrM8MV5OuHJ8J-mPViza77U0FkTSHQIDTKoJVpK49MpEU5phaCgYKAWASARISFQGbdwaIdM73LCuxb1yBOPkDkitOsw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03ZrjzU_9v_jtCgYIARAAGAMSNwF-L9Ir3ITnXljrhdMld1FYRKlp64fN8QkGaNqk22dgPxeERMkqAI4WzHp7zDq-jOffWk8mAvU",
+  "scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiMTh6MlBrazZvVnBmTm9pLUVaMS1WQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzAzNTg1LCJleHAiOjE2NzYzMDcxODV9.Re8OSGMZ7E7g4JVmKKM5UKnbGGX0wO6U22agUrsrgX1ollpvFSS9W-CcHrUy9d-EOaEOlfnrme_j22go4bLy9HMwShy1BYS93CeWk1y0kyb2fnWhK5ADSqjGsIWDvX4UY6tJU4qVzqV5eJu7zhvGmp5N1luaW2tpwvvWxWslykhsZnOQS07jDPuT52xS4zssXPHsA-74AmDugzt94c2dzGwBuzV0ZY2ghPKzuCsCrv4Mb2Cimj3opg0NUvqStc_mppdpaBAAUXuIWMNRA9zQL3geAwfV6osOGB8sThO1-kOgTMyb7wA5x7IVdEdb6Swufh_lk0uwb3ujIf-PLL9KTQ"
+}
+2023-02-13 15:53:03.419 +00:00 [INF] Getting user details...
+2023-02-13 15:53:03.539 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 15:53:03.560 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 15:53:05.331 +00:00 [INF] Preparing data ...
+2023-02-13 16:07:32.577 +00:00 [INF] Started ResultsTree
+2023-02-13 16:07:38.601 +00:00 [INF] Detected internet connection
+2023-02-13 16:07:38.623 +00:00 [INF] Checking web for sign in page
+2023-02-13 16:07:41.553 +00:00 [INF] Authorization code: 4/0AWtgzh4fY9_HpFuLZYGo2zOFOAx2r80riBPudKMZh1tBNas8F5s5Dq8SiOrktYjFal7qMw
+2023-02-13 16:07:41.557 +00:00 [INF] Checking authentication tokens
+2023-02-13 16:07:41.859 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsrenu4gWr0fn8fd3XuOcpU156zxwztBeGuA9oZ-VoykbUQ0kpOWUDnrS5JTO_p6SAAmXbBB5xN5XW1e7rZNVkQBItsSH0kWSa8iX9UJoeKEANMIUv1mvCmhwM-Q3f_XvJCo8HqFjP2dt4bPXtdCnD8caCgYKAVcSARISFQGbdwaIaP-DvjDPNtTkGft9mIASUg0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03kGREmgogL2aCgYIARAAGAMSNwF-L9IrTHj8qfJJMII-C91c7eX5P8HpHHGWJakDPDtVWmzvQ5OZiVLoRqhojSiItNDPxiCbHK8",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiRTFGZFpUN1RlS3JsTUpGZFpIOWxpdyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzA0NDY0LCJleHAiOjE2NzYzMDgwNjR9.OrRN_SP0BoSlofxf99REFTJKslCwCzmUQqaN3RtWCnwlGydiNPc-ARI8e7DIbWzuCHbRalBlZ5Jw-IMvZWoFDTz41JgRHtOwaFndxyjJ3tpP3YZHSmSpqqgBcTqQHBbZoFLp_66R1sp8QeDRdoMMAFbmAicvNt1iIFLIYhLNJ9AlprwqbDCW-47rhnMt_JZqmy8015y7UYpsvv7BbVUY0cz-zfcolCjnvROKrXS0dMazGPRDKmEsfRnj2Z-OW8jHtA6R2-rg6XALt2GW0FGm0yFS0FFIye01vZHn1DksaJs5GLACcc-VAsEFrmrZpt-bH8PYC8xXS4KZj8Ue1eQ7DQ"
+}
+2023-02-13 16:07:41.888 +00:00 [INF] Getting user details...
+2023-02-13 16:07:41.991 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 16:07:42.024 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 16:07:45.846 +00:00 [INF] Preparing data ...
+2023-02-13 16:33:16.390 +00:00 [INF] Started ResultsTree
+2023-02-13 16:33:23.622 +00:00 [INF] Detected internet connection
+2023-02-13 16:33:23.642 +00:00 [INF] Checking web for sign in page
+2023-02-13 16:33:28.453 +00:00 [INF] Authorization code: 4/0AWtgzh7eCBeZQ2vgdIMInLWxYgPH1t56sFLVOO2_5yH5GFV5kXfK-p0DbXKSgK0QUv1ONg
+2023-02-13 16:33:28.458 +00:00 [INF] Checking authentication tokens
+2023-02-13 16:33:28.772 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsoi4qPbUz8b6OfO5e4-hBz_LG1qPYSjGI2n2kL1X4Mzp79DpMUVfuGyrX2GX3agTVDUZ0WmuObDBxjmMnD7k2LyKw8LDk3NlM1Cvb-Riu-POyDOmilwgHfI9boy3r0ipGCLkAhWvUMX-W0OVyIzXtjIaCgYKAb0SARISFQGbdwaI6cPkV0cLCoI_TuVuV0pqkw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03tS_HJNqFwpUCgYIARAAGAMSNwF-L9IrPIlPuFf-B7jU3gqH67uQZjGbfmlWYAg75bMexNZZ6OYfiPZxkFuki7W8H3WWD-mMt_g",
+  "scope": "https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiYXgxSi0tRGtQM3hiT243cTAzbVU1QSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzA2MDExLCJleHAiOjE2NzYzMDk2MTF9.qadX1wLDlYOlHDwSwvfs67yBBkkOe00--lJ2TDG6QwIbfIzhyGdkCm-kGmgV57VjWyC0UyVbBRUZU7FwJJ81RUbZjqoOW_f0fDZHzpSFvypv7SR7tpStNlWo4FRIKrp84vXvgz_BlU0w5XqkuHAQ3zmBvuTqAKWCEo-uK6ySBruuXjUqI7vliR3b9ti9Ij_k0vyE9dagmlLtniitoI8GO9-5BITO2B-1QnfGYajK0kU7FPoceAOxNJqEP-XbPOprC8Qi-9DsQzrpVABE9p9zBWqsUJPj-vMZFrFRcnrH04YU8zh8ent4JZfQzzXctc2LEUb8sN46tvd7ahXOcXcqSg"
+}
+2023-02-13 16:33:28.805 +00:00 [INF] Getting user details...
+2023-02-13 16:33:28.901 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 16:33:28.920 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 16:33:38.705 +00:00 [INF] Preparing data ...
+2023-02-13 17:59:43.809 +00:00 [INF] Started ResultsTree
+2023-02-13 18:03:13.669 +00:00 [INF] Started ResultsTree
+2023-02-13 18:03:19.242 +00:00 [INF] Detected internet connection
+2023-02-13 18:03:19.261 +00:00 [INF] Checking web for sign in page
+2023-02-13 18:03:22.775 +00:00 [INF] Authorization code: 4/0AWtgzh4k-id59wAZ1QqGCCeUN9kkjJaH_stBW0pOO4UpT43hFfbSzKdUt9yuZflpglhpbw
+2023-02-13 18:03:22.779 +00:00 [INF] Checking authentication tokens
+2023-02-13 18:03:23.076 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsp14F9Q8GkWx5qATA9x7bXXk1-hTAQEHX_mIyUjY0yqyR7gIMcUkHeHwpo7BMdRjscqD5ojmw_VJ8OrXlxIgZ4fSzE4tM8vut5dDsBpXkRk4RbycSKwwotSULkr4K06w-YXTpN7KjtGlYVbjk-NwTXNaCgYKATkSARISFQGbdwaIgWfXErtAlvV7_OUaQ_NgZg0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03h8P3g0M4A4yCgYIARAAGAMSNwF-L9IrkoCdRO5pCtSIxeTRJTujkuh-ZKsdqwNPBLH5RkVAGdI630SMhNl5uE2MdxCoRrbLh1c",
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiSkUzanBFc1pQWjFPdGh3QUpjV1NndyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzExNDA1LCJleHAiOjE2NzYzMTUwMDV9.GfQXsWbaeSlngY6sjVkWJjSB0eMGRgTi_SvxTBWPAH2XMnoCz_pbrYSz7PJBKtBWRTMa6YbVQrehNbcC_a-agAG-cSKOiXM4UWyW7kkbfJPH4RxePXNMFavgeenncv94SGYIhn93YjScfdBppglCt4FtNaw95A5Abqev0qSIvUNdSpTNo7R2U3pBosQ9tzxGvN_WdsMPYofMcEv7jDWTVmZzMHM7u35elCCPiJmhqv6ZF_Dcl42ZwSlr9Dlg0MmjRNiWJcDSjmqt4pWcRN4z_Ea65NWQjirr7iKj7D3WXeUHHm_sHf_3EP2E_TruwLyNScY3r-9RLANXIT2u9l23BA"
+}
+2023-02-13 18:03:23.099 +00:00 [INF] Getting user details...
+2023-02-13 18:03:23.222 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 18:03:23.246 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 18:03:31.388 +00:00 [INF] Preparing data ...
+2023-02-13 18:20:42.537 +00:00 [INF] Started ResultsTree
+2023-02-13 18:20:47.917 +00:00 [INF] Detected internet connection
+2023-02-13 18:20:47.940 +00:00 [INF] Checking web for sign in page
+2023-02-13 18:20:50.592 +00:00 [INF] Authorization code: 4/0AWtgzh54aKvq5cKIujsH8PnxWEiiisfv-iv0VGnArrpJCSZhJgOHPQw4ZpX9bwuEjRxAZA
+2023-02-13 18:20:50.674 +00:00 [INF] Checking authentication tokens
+2023-02-13 18:20:51.068 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVspVErAyTP7GTLy5454kZcPqxBTo63pgBresC6UmX2IBq4MQHj8BB6Z2dDlqFYok9muods7pNCdfuWPPdTEMBFjh6jNB1rwvWrQfj3oKWwIFLuZmeUh3dG6ZrBN9nFHh8ENS1CsX9CMMPcISV394MJAHaCgYKAdMSARISFQGbdwaIkYsIg3YtRJF8E7TshAYxEw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03mRjPWY8riRXCgYIARAAGAMSNwF-L9IravO6qWPmRSd2GmA8Q682yGnR3AO832v6i176RHtRoy58DJe9dtYo4KhdTjbhGNxwSmc",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiaXByVlM1bFRaOE1JVHV4NjVBcG4wUSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzEyNDUzLCJleHAiOjE2NzYzMTYwNTN9.DYlx1zFre1l-L2p-P8fRWxailKLBIblU1oeCLZPdMhvB8VH6izoBTzQzgLvNbSJAI04IcKkXAaGR2F9bckcnK3hOGHzYwVM8iHOdFfoL0wFirzymzM6SGtUZZwH8mWlLaGeH13ApY0sUo3T5L6DbgCsOyIjRlkX4enNZutQV2mzgOhpoeQlAYr4VHgi9HfDx97e8n5fIjbFevnS3jZL8zO6gzVMJb0FIKYIW4WoKr98R6hYzSlOo1JHV6U-H3GnDfPFzoqg8EZcTOFmtvg-WkgHJveYSkna7w3BQWdoCiGZwzN05xdJIKWTCRby0U3vNhQb7DEPdStwZVybv4Sd-yQ"
+}
+2023-02-13 18:20:51.089 +00:00 [INF] Getting user details...
+2023-02-13 18:20:51.195 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-13 18:20:51.215 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-13 18:20:59.641 +00:00 [INF] Preparing data ...
+2023-02-14 09:04:33.663 +00:00 [INF] Started ResultsTree
+2023-02-14 09:17:47.558 +00:00 [INF] Started ResultsTree
+2023-02-14 09:17:52.653 +00:00 [INF] Detected internet connection
+2023-02-14 09:17:52.672 +00:00 [INF] Checking web for sign in page
+2023-02-14 09:17:55.342 +00:00 [INF] Authorization code: 4/0AWtgzh7i0AzcWULBYzfm5LNd2k-yX0YuLm_YGqzLNtYo26nYK-CXd_DNrB7Xc5h4lwHJ2g
+2023-02-14 09:17:55.450 +00:00 [INF] Checking authentication tokens
+2023-02-14 09:17:55.774 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsompnwf6dZk4to8PDyLAIlDnbNGWSCYT49JwiAksU3QM-kP_8U2J8QbZ6tjQRkhoYpo2-Caa2zBEpH6BzalcX6dQo3humg_kJoFwCVav43mYHBSGJhoPH-j1EdwPt0vThV-fUzkcQ8-IcVVC6k4yrAgaCgYKAV8SARISFQGbdwaIxfqu6RcmadwuerWixVYwAQ0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03UyEFAfptkiRCgYIARAAGAMSNwF-L9Ir9xh7JJ6ImQFKiK0W1jqnnSwNVRQyMx26PSNt3bMsrfbYUN8iglHj4qE89ja8wzOVW5k",
+  "scope": "https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiX1JiamNrVlA2UFluVW1XR3FncXpWZyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzY2Mjc3LCJleHAiOjE2NzYzNjk4Nzd9.ImmLcV0XdotvmeIld2fj7-AGqdIbzgNUoZ9kcNMsdBD3eqdjgOW0s2tbS8OFodwUJOE9buRgCynOazmQ8Bi1EwbOpEziuOEXQ2n5asETvzNW8N2NxpMRpu7wYj9Shp7n9xBZbcDw_WgpVbUwv7-_0Puvv3sI3zI68E0Gao4IuTZPRUI184lvTLEV2PcjYCss3iHLDW5204KVo39sT0b8keg-vwVwi0_3ip7Dt3EXO0iZz3Z37yuM9NlaFlynTtzFQvY1Suf3xV9B_qYSgbawrbErw5TrBaoyjri0vzLjK-fXBrXBzOzzq8TVAEsprqxYo9Vx-PmTkAoCOO7NrbhTWA"
+}
+2023-02-14 09:17:55.805 +00:00 [INF] Getting user details...
+2023-02-14 09:17:55.920 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-14 09:17:55.942 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-14 09:17:58.555 +00:00 [INF] Preparing data ...
+2023-02-14 09:27:25.953 +00:00 [INF] Started ResultsTree
+2023-02-14 09:27:31.494 +00:00 [INF] Detected internet connection
+2023-02-14 09:27:31.513 +00:00 [INF] Checking web for sign in page
+2023-02-14 09:27:34.038 +00:00 [INF] Authorization code: 4/0AWtgzh46c7v8a0RW-NEML_-DvQso8J3NLdiPSR1rqMNvCdXGOWPiRJv5M7d28wII6xnEgA
+2023-02-14 09:27:34.110 +00:00 [INF] Checking authentication tokens
+2023-02-14 09:27:34.453 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsoyx5qN9hvg4evqa-7ES3FCBhxwqBGhOgbD14FlFB7m9QwcAj4NbnP_qTrgEIUMOQAR3ml0DT272iROyOyjM84CdN70-zWQEZgKOYbeoDsONFyZbi2YAHkjp6W55MLx4h8GZWm3NdJMcKtGD97AB38eaCgYKAdsSARISFQGbdwaI2Nw3M1qMEa6eBeJW7h_eAg0163",
+  "expires_in": 3599,
+  "refresh_token": "1//039fDNhv-MBn8CgYIARAAGAMSNwF-L9Irdw0zYdchbYUSck8mNJl0VVvb-76fPz-V0zDpCCMOYJOScjpwyTTpFnIXWGQXaz0thPA",
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoic3AzMDNjWVJOWVp6c2VEUDR2cUM5QSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzY2ODU2LCJleHAiOjE2NzYzNzA0NTZ9.JeDq6WZc-KrdWPQwsvPpUJwZpTd5oLCFDt0hOM9eQvUrUBjj223cyeAfAj3kELMZoabmBTODpaussLNhAIRhmAPo_BtP5YnTEi7XZG63PO84haqE-T8TUDzlvfUq9HCHEqzYrXPWkCnbykqJDoCdETVx-oSVwb8lGfQYbN0XB9dJmGM86Rn3mNI5xPsjEJfhjVoNjlccwITdVFoC2QU_WYqGX4mS5aKOKjteyYt5iMnJ6ooDM_B8VS-NllRriaOvVqozNcxRl5LtwWVNY9s6e0L_lx5WkvYh1N2s7czut__l0DOl5vtZfwE7ZzOuIt2iitks6hecD6IFIcpgWIlp2g"
+}
+2023-02-14 09:27:34.479 +00:00 [INF] Getting user details...
+2023-02-14 09:27:34.589 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-14 09:27:34.606 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-14 09:27:37.351 +00:00 [INF] Preparing data ...
+2023-02-14 09:33:19.171 +00:00 [INF] Started ResultsTree
+2023-02-14 09:33:24.268 +00:00 [INF] Detected internet connection
+2023-02-14 09:33:24.290 +00:00 [INF] Checking web for sign in page
+2023-02-14 09:33:27.534 +00:00 [INF] Authorization code: 4/0AWtgzh6qmFKxF2h-lYh5MFkg-hNthrIB-f5Un6xs5InyKmFatMZ9hO1WY8sFvAeLuby-bw
+2023-02-14 09:33:27.539 +00:00 [INF] Checking authentication tokens
+2023-02-14 09:33:27.860 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsoWz-h1tshNY80m-0Jj_k5WcMH5kkWqMtfj6U7uGoFbcF_hQiPMoHPCdZNIw1lG7C02y-L_YdVM9aBF5_lb4vSMAENKeA_J5y6JE1W2oniXkG03GGy86JU4ImpahT09ticQpQtkBjgZrEY30kXKDqeeaCgYKATkSARISFQGbdwaIQlAsapDMJCubzWrmU4Jq1w0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03TdVKWEhoabSCgYIARAAGAMSNwF-L9Ir3S9s3uvpfOFrCFzuhDC8v3INPmTKfG7EMGV3N4IZ28LnmWOPi-2iNyeMbhtYt28PR4k",
+  "scope": "https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiM3dLWVZIRnRYc1ljT0k0dnhmdkl3dyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzY3MjA5LCJleHAiOjE2NzYzNzA4MDl9.m4NM1H0ce4g_AkDMb_hazyHBasJR1mIGSMVsuxqmICt4DBWHOH9SntE_5PHpaxa-5J8-zmaO67XWJwu9mfnOTB0ShnDG-1NZ_V6zdFa2brqLs6UXtpg8M5jJRvDzNHCKsHZUbtH49Ronq63f_y-nTzxXSaJcPn8vLl7J6MFJaFowEa7Gtly42JLHt72nmpc4UhFjN_JL14GH2N4BstRYWDFRW1aEWrJjL1UC0ZxXVXzp8DQLlAnZdG2lWtyiXHyo4oXG_lLLGwThTAUFcGrcoQ3N3K0vmHEKhSRgf93U4YYv3eAXkiPCN-BXD3oFJRGiII98wbOs_t3gVGiqqL05Kw"
+}
+2023-02-14 09:33:27.888 +00:00 [INF] Getting user details...
+2023-02-14 09:33:27.991 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-14 09:33:28.017 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-14 09:33:33.722 +00:00 [INF] Preparing data ...
+2023-02-14 09:39:35.061 +00:00 [ERR] Exception whilst saving the Id Map in Azure
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 400 (Bad Request).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at TimsTool.DataService.ResultsDataClient.SaveIdMapAsync(IdMap map) in D:\projects\source\TimsTool\TimsTool\DataService\ResultsDataClient.cs:line 99
+   at TimsTool.TreeWindow.SaveIdMap() in D:\projects\source\TimsTool\TimsTool\TreeWindow.xaml.cs:line 318
+2023-02-14 09:55:28.387 +00:00 [INF] Started ResultsTree
+2023-02-14 09:55:34.779 +00:00 [INF] Detected internet connection
+2023-02-14 09:55:34.797 +00:00 [INF] Checking web for sign in page
+2023-02-14 09:55:40.184 +00:00 [INF] Authorization code: 4/0AWtgzh4L9XoK4C8BZnAaWGQYht9h9me7YgJrZ40UydIOesL5dUl0a4LXpaWOdtldiSH89g
+2023-02-14 09:55:40.189 +00:00 [INF] Checking authentication tokens
+2023-02-14 09:55:40.501 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsogmewxTHLEkMl3jbdbZYbPRXl4tryuzU7sm0sCOYAD21XRtPsga6nKSjqSo-btHpMJcyOnp_tllkuo3LY2iGQV_bn6qngS-PSyoFBblMS31sZ2NYE82eMe23tKCeWHRM2tYMlOaiBu5v9sSCyXLpGWaCgYKAdwSARISFQGbdwaI2k-38hnh3Pkqme9LH57_Rw0163",
+  "expires_in": 3599,
+  "refresh_token": "1//0369C-CpdTICUCgYIARAAGAMSNwF-L9IrFS0dT_n4LJLYnKrYXz3rDO9ArQKvqH7yLANIWshIB8fTRP0D4eNoBZx5X0NXQ7xcEXA",
+  "scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiWGpRdF9oT1E3aDdJa0EtX3JkcGVlQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzY4NTQyLCJleHAiOjE2NzYzNzIxNDJ9.l33dWePXhKMe9IbdjmM7M7GD9C77HQv7XpPsb5e1VZzYejQro0S4dYmwQ5Uk8ngZWHw2y7CwJeBjLePOgEhyFIOfzHq8UH-Ium4MiM0rI9DkaCQmJSpNiD_bPZwvoCL9F06UGAkfAYqwWVSIjgZfjvODZARa18e7_I6p3GFULr6BDZf07hK18T7fB6omeZqu1xe8LYc1N6Y3j8F_UhrVzvpss2o50P67NLDo9XD6v113mXGJA8C-w8XOXbPvIwtjqkwY_OoCeiVrzkYOz4Rz5pszXo8XwMzxCGCyrT2yG5sFVcFegAsug0wHOKzL4rx8yGTe1KURl81r0DahdFQo7Q"
+}
+2023-02-14 09:55:40.523 +00:00 [INF] Getting user details...
+2023-02-14 09:55:40.649 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-14 09:55:40.668 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-14 09:55:43.314 +00:00 [INF] Preparing data ...
+2023-02-14 10:07:55.749 +00:00 [INF] Started ResultsTree
+2023-02-14 10:08:01.008 +00:00 [INF] Detected internet connection
+2023-02-14 10:08:01.029 +00:00 [INF] Checking web for sign in page
+2023-02-14 10:08:03.553 +00:00 [INF] Authorization code: 4/0AWtgzh6IhJ4gHfXN1SgOQxe0SIA-npxEN7CJUBPY4ty_a6D4wWqKzIupLzFdaMMQ-zbHMQ
+2023-02-14 10:08:03.580 +00:00 [INF] Checking authentication tokens
+2023-02-14 10:08:03.883 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsoU0V9hV7VGS6tzinuqTYM3imP0jPGolZkdnKP7fNjUWbrhw3sErk7h2r3gWn3i25lfw2t3uBQvY4YhCIBmqarLSPWbOicf8vcPT-J48Y4xg03aTwadCMuB1axcJYc09Uegq_FSOk_kA5f28OLUNe8paCgYKAeESARISFQGbdwaIJwIpSJJkP4cQcC5FVexquA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//030IpZ0XnNms4CgYIARAAGAMSNwF-L9IrDIXgCPT99I-V6yA_jxxXflptD8S8p-wrUbSytAg008r1EGNXURi-BsNw32J9uxJH7RE",
+  "scope": "https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiU2x5NEdwRC1ZbnRYM3RRbm5yTXl1dyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzY5Mjg1LCJleHAiOjE2NzYzNzI4ODV9.W26q6kicpd-oI0eUwe5SML_37w14tTHcM7vq-Y8DxM0RPz0qnub7G0CclOSmbMOmR_lUp-JIH3dfG9nHCz4npiCfxDKCjD90P8TqS0QKGmMWmE5LxEQ-UFQF4D-VLg5dIgMn43M4VAia2TPN4kzm_qPyYGeLfsHMLxsWb4y4NhN-m35dqoam_jKODytMpRLMrGYJOY6Zu4aZnpzRpqBkmoPwhsW3pRTIn8bdsWDEqaqKJp82sfil-Uall5YVDd-KnYExfmfwpZB2-oAQLdBRxZkWE4OaankDHKrqkoFBd-eGhnMofgw4iX0frcL9fEAfI55T0jfarOyZ_h4r0nqStw"
+}
+2023-02-14 10:08:03.905 +00:00 [INF] Getting user details...
+2023-02-14 10:08:04.001 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-14 10:08:04.030 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-14 10:08:09.098 +00:00 [INF] Preparing data ...
+2023-02-14 10:28:53.158 +00:00 [ERR] Exception whilst saving the Id Map in Azure
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 400 (Bad Request).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at TimsTool.DataService.ResultsDataClient.SaveIdMapAsync(IdMap map) in D:\projects\source\TimsTool\TimsTool\DataService\ResultsDataClient.cs:line 99
+   at TimsTool.TreeWindow.SaveIdMap() in D:\projects\source\TimsTool\TimsTool\TreeWindow.xaml.cs:line 318
+2023-02-14 10:56:45.836 +00:00 [INF] Started ResultsTree
+2023-02-14 10:56:54.729 +00:00 [INF] Detected internet connection
+2023-02-14 10:56:54.752 +00:00 [INF] Checking web for sign in page
+2023-02-14 10:57:05.809 +00:00 [INF] Authorization code: 4/0AWtgzh6cRGKI-RIrUOT5CZ6E6jHZ_atBKdMNB7u3tikYDc1nnOaiX-kRGqmxq7ecbDcoJA
+2023-02-14 10:57:05.830 +00:00 [INF] Checking authentication tokens
+2023-02-14 10:57:06.135 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsp7-RkNl8-wM9tqHWcT-udO-1MCVulK1Bf1KFWA-yeMlVJAKT8aWhkRHPiwvml-Qqmuf3zCBSbhf5WDpM-1-8RusSuALJN04z-RiRJsbqGkOZvgF_zEJ5xKhBxOTfF3hkpj1jTBCAC8SMo3oU7zMdWcaCgYKASwSARISFQGbdwaI1vCnulbCO_7xuXgLQT-TWA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03MWKpJoVvbKrCgYIARAAGAMSNwF-L9IrKNc49dDjaDdC1c8d6yA20FTFVluuWEr3nPSSQAf-VDe3LzMOdEWnAwDiVIpJL4HALtM",
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiRVg3ZC1ycEMtNzRRTUFtdjYxYnBiQSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2MzcyMjI4LCJleHAiOjE2NzYzNzU4Mjh9.gAsTFPsCxAst5weYo57CQJeGdanuin3lMLzk3xsBlPRd_IHCgQhhFmKmxvF5Lu0ogt8txFnwZhRjKvNL8OjbzPbLLQi4ZCn5Dr9k_R1YElgBBG_dok01tYjvriufC1kOcYb31SIIrLqMu-fg3DNeONNamSQH6ubJD0Gzh18GVm9ZAdt1xPP_eG1JcqFVJRLmmu-NRS2esOdlk8JbrYAFJKHwfj8hXLNvHkl7BJxV46Uqis0YQ2hILVP4QQ99RMmqtgaKiLM_4gctBfnnGpERzu5W_lk8TxfKjK8vb1sIX5fyPYCfT4s2n69dAziLsDECO1RiZqPxCZsgLk1GmuB0Uw"
+}
+2023-02-14 10:57:06.157 +00:00 [INF] Getting user details...
+2023-02-14 10:57:06.246 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-14 10:57:06.264 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-14 10:57:13.211 +00:00 [INF] Preparing data ...
+2023-02-14 10:59:05.597 +00:00 [ERR] Exception whilst saving the Id Map in Azure
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 400 (Bad Request).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at TimsTool.DataService.ResultsDataClient.SaveIdMapAsync(IdMap map) in D:\projects\source\TimsTool\TimsTool\DataService\ResultsDataClient.cs:line 99
+   at TimsTool.TreeWindow.SaveIdMap() in D:\projects\source\TimsTool\TimsTool\TreeWindow.xaml.cs:line 318
+2023-02-15 13:00:15.423 +00:00 [INF] Started ResultsTree
+2023-02-15 14:48:42.051 +00:00 [INF] Started ResultsTree
+2023-02-15 14:49:26.445 +00:00 [INF] Detected internet connection
+2023-02-15 14:49:26.465 +00:00 [INF] Checking web for sign in page
+2023-02-15 14:49:29.481 +00:00 [INF] Authorization code: 4/0AWtgzh7i2PoZzANGrrhOBOQhhINv1ocxI_xLKMZVTzOnrK_bL5P80DLrRJnpYAB54kaAzA
+2023-02-15 14:49:29.514 +00:00 [INF] Checking authentication tokens
+2023-02-15 14:49:29.899 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsqiw2zCVUAySZq3N6CV6lQZsQmM4byB-rVQEnSVsTiy_RbRupgcGWdIAwGwOHg4dXME5iZJsAJOhFNvuJSEHg_Jz6lH-wfqB5tqlu-uVlPvQRyMnMU3CmGNSvdS9huLHajmGV1TbZl0kZDyyvetqML9aCgYKAUkSARISFQGbdwaIJyaoyhSlrC9mA9uOFx7Zkg0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03VgvWLW4_NwLCgYIARAAGAMSNwF-L9Ir5qrInyaHjIyClAxQg_3iex9FU9nUQDTsNGCz0JkugcINBIZthqlyoMOccpPsgaHmAt4",
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiUVZvZ3Rvd3pYNFNYb2FQcjRacHpBUSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2NDcyNTcyLCJleHAiOjE2NzY0NzYxNzJ9.cYKm86TUYwyBA2whTLgqq01CdPzzpc741gYn3rcx2uUZMcdTam_H_zyhog1KGq3ezDpIBUGjVd7Yt_SbjTAznbH6wLlhS3txVdTfaa-BIN_GOHg51jui-zzwLpHNxNP7v5EpNnxBKifmMQClD8IxXP2wUwsFP79waiyRPXtu_yEjfTLdSeAZj4-LlS5ZlL4V6yPOQuoF6F9EWwPfd5qrkOGHfgXmxiCLE0KclSFtHEhzfOhAvP-hBxGEcYQTttwKN1ruRkWxxwKHaJy5pxz8KxUG7Wb07iJt5YfAGwuTCbHb7iew8GMs6mmFgB8yEWL1W9HLtzP7oYPmu4KOM3gPGg"
+}
+2023-02-15 14:49:29.924 +00:00 [INF] Getting user details...
+2023-02-15 14:49:30.020 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-15 14:49:30.078 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-15 14:49:32.791 +00:00 [INF] Preparing data ...
+2023-02-15 16:03:03.137 +00:00 [INF] Started ResultsTree
+2023-02-15 16:03:10.573 +00:00 [INF] Detected internet connection
+2023-02-15 16:03:10.610 +00:00 [INF] Checking web for sign in page
+2023-02-15 16:03:16.725 +00:00 [INF] Authorization code: 4/0AWtgzh63vhk5RLEVo6TcwoZO_aurR3mpRUkemKcX8GoJPxUOj-mIdBpq_2ZMas2ahg4SXA
+2023-02-15 16:03:16.837 +00:00 [INF] Checking authentication tokens
+2023-02-15 16:03:17.214 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsqarfp4RAq4bGpcoA65Av9ZLIWOXfCthT1cKyXc4H3nZRk1eg8I_iR8vOpk46wpdFoP4Q5B-ZLXWgC0_jV2_ssDxWopdcxKB8H9-6DKwVsNhzjAvIFopuOKOIbERqlIiWrWbS9snLFzjKEgKmbs_3t3aCgYKAbgSARISFQGbdwaIGQxLMmf2ySwfeodE1b6Qww0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03CLQQWLfZNnjCgYIARAAGAMSNwF-L9Ir9SoBmR1GdTt4bs8McbRiQJPy3XRFutITlcWhyFQuTcW1prb_husn9yPRhefmQMuYJyM",
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoieGdIaXBpanFxQnJ4bnh4ZUJ0SDN2QSIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2NDc3MDAwLCJleHAiOjE2NzY0ODA2MDB9.vEIal0r3EIsZCL9djY1M2sYeCLBNh0CpCx7M2T09Cs-0n43UhZekh0HwvxtBBgHWS3d20ll4eOaOXZnT6H2DN4-YPQWcD9keLoZOq24-vlsFODjaSES9zxwJ9yvIK4XcPhfCLfzTGIyz6Id9KuPMCSpHjKSoWZdrgRU0hlFr8RS6g60buyRFfT67xc-l__ZNL-CT1mle0hDsxvMeohhIwP3cDqbeUl3Mw3zhRj7dCSzDx-iBvHGbTsXhDgiOzhM6lT5oj9wF_vkR7V7GaDJP3mGY9lCSYzmvbE-uKYpp4eNBTtPS2_bXghVhzI-4Ez5xu_RFd906g86zk-cKppio7w"
+}
+2023-02-15 16:03:17.261 +00:00 [INF] Getting user details...
+2023-02-15 16:03:17.361 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-15 16:03:17.391 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-15 16:03:19.916 +00:00 [INF] Preparing data ...
+2023-02-15 16:11:55.704 +00:00 [INF] Started ResultsTree
+2023-02-15 17:16:27.975 +00:00 [INF] Started ResultsTree
+2023-02-15 17:16:34.562 +00:00 [INF] Detected internet connection
+2023-02-15 17:16:34.597 +00:00 [INF] Checking web for sign in page
+2023-02-15 17:16:38.497 +00:00 [INF] Authorization code: 4/0AWtgzh5QaTq0M8Vv2wtzkN7s64qdrri3eFE2j1I2AfdoYDoxxkQsAmYE3PukippWnr311w
+2023-02-15 17:16:38.519 +00:00 [INF] Checking authentication tokens
+2023-02-15 17:16:38.856 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVspIZ2-WWCd-aX6zkWFt1PRMs3mvt3WjGijMirRTXugoBR_tkifjVX9O6d-UfYdPw_MxUoTAwNG74R62rbDdRlBiFO9VnlPELNjx7PWJ5Yaq9YyMxUPS3f8-SSUlab9jPUryShf0sWo12eIb2goTajP5aCgYKAfMSARISFQGbdwaI7HCdyyDvkIIKvtb-TVp46w0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03Q5XDzO7Mrg3CgYIARAAGAMSNwF-L9IreTMIUfZRxQViE14j3qCqVXDc1fbtqjsU_sV8OZOdnZbti5zJqZJi1SlQBthKHxAYJjc",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiNHlPOXRORnZFd2pEUjBYV3RzaXhoZyIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2NDgxNDAxLCJleHAiOjE2NzY0ODUwMDF9.RUjT87xy4jk4sW8TU-leRiPnYMxUbDWkNhKz5JOnKbfKrWL9MRee6MbbYViP_2IJWTZIbWf_6rTA9MgX5w9B-16doVJzq4lykCt6oEEU7kLWe9xs12taiNjO4Fep764LB6cjBrRaXnJD5fd7DNBxnzDrUKElidhhO6YfA-r0Wly-lcSQVljA6tyNRbiVtHdH8Yyds1zOKk7D6jV8ePp3AbgkxdkXcqB-jZSVURaYQYniGECdVRA35soXCa-UlUnAmKN1ISWr2AKqasrJDivq9w4-w6VObj_oeP4vWL45a--UE29b0M3zmvvna7TdHYesjjSq-oJRmUiUh0xmT7SmQQ"
+}
+2023-02-15 17:16:38.879 +00:00 [INF] Getting user details...
+2023-02-15 17:16:38.995 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-15 17:16:39.053 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-15 17:16:44.255 +00:00 [INF] Preparing data ...
+2023-02-15 17:25:12.137 +00:00 [INF] Started ResultsTree
+2023-02-15 17:25:18.582 +00:00 [INF] Detected internet connection
+2023-02-15 17:25:18.605 +00:00 [INF] Checking web for sign in page
+2023-02-15 17:25:22.036 +00:00 [INF] Authorization code: 4/0AWtgzh69abE8AQEecmAKCd7ZgHC-QRC2Kz9t2LjKXuNAMiJxfd9ZxM5Nsg82cFTJJj1C7Q
+2023-02-15 17:25:22.063 +00:00 [INF] Checking authentication tokens
+2023-02-15 17:25:22.485 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVspjP7nlrmOdkG8ovEJnVZqbj6JEmk5J4gmlGZCzXbbm2BFmDw9CLJvFwaMjcWHyd4pJLJluw3IsMqY9465NhZyYPl92X857MHy9M10sbIsCxgyvjESrDNbyE3judfONfzws4w07cAEUiXQ4ak27CNrDaCgYKAeISARISFQGbdwaI5XLxEwflTzMFsQ2JcEA6ZA0163",
+  "expires_in": 3599,
+  "refresh_token": "1//037UOkywS4_A_CgYIARAAGAMSNwF-L9Irf094-rhYztvMgpilei6mgjdpRsK7IXWMbLu35v8CmG6KKUqxA25siM4iSDng85MqDWI",
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI0OWM1MDYyZDg5MGY1Y2U0NDllODkwYzg4ZThkZDk4YzRmZWUwYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoicWw0S2YyaEZFUzYwWHpwOVU3b2U1USIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2NDgxOTI1LCJleHAiOjE2NzY0ODU1MjV9.e3efDz-Qn8f7iJC6qov5CMcxABN_YiwtJ7trZ0l_WZh6AP_Mc__-ycS-ikVI1I5rloDnvpyucwUk3CQrxP-Nb-0INrtrY58Gy_olC0jcpb2wF8x1HLLBUovXVhbkZ6bN2Efmw2-XdfBV8BC-phQv0ZGIDZ2KAznR9AT7YPLoNfBjEqWgnPLGAMSlz8a9cBsOBP6B1UXhjvUF6bSIPgoVA3yPnkcCelQBP58DqhxTgbllpIMdTKn3rpyjPvL3t4ZjPlZ2fBnn2V672axwuJrWd5CF7DIeXTw_b5ycGMmH8GIQ1bJP16tnTfRSQfsK9uVQeY9QNlzEFXwRE55gzqaYEw"
+}
+2023-02-15 17:25:22.512 +00:00 [INF] Getting user details...
+2023-02-15 17:25:22.605 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-15 17:25:22.627 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-15 17:25:39.271 +00:00 [INF] Preparing data ...
+2023-02-16 19:23:41.128 +00:00 [INF] Started ResultsTree
+2023-02-16 19:23:45.686 +00:00 [INF] Detected internet connection
+2023-02-16 19:23:45.710 +00:00 [INF] Checking web for sign in page
+2023-02-16 19:23:48.686 +00:00 [INF] Authorization code: 4/0AWtgzh5R6uOaBIGC5P78Bwsf4Mf1nW3_5Z9h0xS66M0toNUabIuO8NAnqsAhYAVE_Xvg1w
+2023-02-16 19:23:48.715 +00:00 [INF] Checking authentication tokens
+2023-02-16 19:23:49.168 +00:00 [INF] {
+  "access_token": "ya29.a0AVvZVsqu35xg70CtNBw3I43Ww87VgmuVxtQK5U8OP2dmmBcm4pACtEyg17qpvd1aohohd0mKkpjov5nsN3SfhafKdjf_hm88_PeKKG3haAHV3vzXA6ODCoqWgdk6WrLQhQFXi0KlspnbEYjiSzvxbmytzydpaCgYKAdsSARISFQGbdwaIB9BeRqpkxBjuSzkibyC12Q0163",
+  "expires_in": 3599,
+  "refresh_token": "1//03RXkJPxji8guCgYIARAAGAMSNwF-L9IrV78G66pkLCMMuIP5xPCDEEm4UYOJnUVKF3NKH9bNNUEMS4Ds0rIk3wEggvNCWNAIFOw",
+  "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjU5NjJlN2EwNTljN2Y1YzBjMGQ1NmNiYWQ1MWZlNjRjZWVjYTY3YzYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MTUxODM2MTI3MTMtZmNnMDRodDhuZ3Nobml0ZWluMGI0cm1raDc2YzJqaGEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU0NDc3NTYxNjcyMTI2NTY0MjAiLCJoZCI6InNvbGlyaXVzLmNvbSIsImVtYWlsIjoidGltLmNvb2tlQHNvbGlyaXVzLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiWHVWSHV6NENaZWRibEpacjZRRzZ2USIsIm5hbWUiOiJUaW0gQ29va2UiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFB6ZEQ4aThaYkt6WFhHVHJWSERfQjlJcExwUm5XMjlPY3pHYkM9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGltIiwiZmFtaWx5X25hbWUiOiJDb29rZSIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNjc2NTc1NDMyLCJleHAiOjE2NzY1NzkwMzJ9.NnhIy0yLscM3SPRc7bU4nUhhJpw0TofxH-Ga8q-t7rfucqxj5p90VdKu9e7m4alVS91RIx_Ck3Mzez7Jsj8N7Cdf-rie2fjnkDIdDTc8HrlUHDcHRJfqtygYx9QnJTIBuIw8ppZ5yZEl1zm8EJnUGPCYlr7kGI-GyK8Ep9jlb-FU8Ni9cttFMQSlwwpLbqWYiQ19UmFB5r6djCraoSPnu-rz7CPpypWE5--0a2EPZTuamMf8dhJfGD2rbAjAYUXx6Iv48GAiBFAnCR1JV1Kk_YgyEBgawb6GlqPxBMZcOmEv-h9cPjf_81yd_mb2FJxPTrCpXCgpy19Z_o_6FSrc9w"
+}
+2023-02-16 19:23:49.201 +00:00 [INF] Getting user details...
+2023-02-16 19:23:49.337 +00:00 [INF] {
+  "sub": "115447756167212656420",
+  "name": "Tim Cooke",
+  "given_name": "Tim",
+  "family_name": "Cooke",
+  "picture": "https://lh3.googleusercontent.com/a/AEdFTp4PzdD8i8ZbKzXXGTrVHD_B9IpLpRnW29OczGbC\u003ds96-c",
+  "email": "tim.cooke@solirius.com",
+  "email_verified": true,
+  "locale": "en-GB",
+  "hd": "solirius.com"
+}
+2023-02-16 19:23:49.371 +00:00 [INF] Welcome Tim Cooke - tim.cooke@solirius.com
+2023-02-16 19:24:07.357 +00:00 [INF] Preparing data ...
+2023-02-16 20:09:02.377 +00:00 [INF] Started ResultsTree

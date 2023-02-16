@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Description>Provides support for exporting results reference data to excel</Description>
+    <Copyright>Copyright (c) 2019 All Rights Reserved</Copyright>
+    <Authors>Tim Cooke</Authors>
+    <Company>Alto architecture Ltd</Company>
+    <Product>ResultsTree</Product>
+    <ApplicationIcon></ApplicationIcon>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DeletedResultDefinitionExportBuilderOld.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.16.0" />
+    <PackageReference Include="Newtonsoft.Json.Schema" Version="3.0.14" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataLib\DataLib.csproj" />
+    <ProjectReference Include="..\NowsRequestDataLib\NowsRequestDataLib.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,75 @@
+﻿<Window x:Class="TimsTool.ConfirmDraftWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimsTool"
+        mc:Ignorable="d"
+        Title="Confirm Create Draft Item" Height="320" Width="700" ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner" SizeToContent="WidthAndHeight">
+    <Grid >
+        <Grid.Resources>
+            <BooleanToVisibilityConverter x:Key="BoolToVis"/>
+        </Grid.Resources>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="670" />
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" Height="281" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock 
+                    x:Name="txt_instruction" Margin="10,5,0,5" Width="650" HorizontalAlignment="Left" FontSize="14" FontFamily="Calibri" FontWeight="Bold" TextWrapping="WrapWithOverflow">
+                </TextBlock>
+            </StackPanel>
+            <StackPanel Margin="10,5,0,5" Orientation="Horizontal">
+                <ListView Margin="0,5,0,5" x:Name="publicationTags"
+                                        HorizontalAlignment="Left"
+                                        Height="120"
+                                        VerticalContentAlignment="Top"
+                                        ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                                        ScrollViewer.VerticalScrollBarVisibility="Auto"
+                                        ItemsSource="{Binding Path=AvailablePublicationTags, Mode=OneWay, UpdateSourceTrigger=LostFocus}" 
+                                        SelectedItem="{Binding Path=SelectedAvailableTag, Mode=TwoWay}">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Available Tags" Width="250" DisplayMemberBinding="{Binding Path=., Mode=TwoWay}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <StackPanel Orientation="Vertical" Margin="0,5,0,5">
+                    <Button Name="rd_btnAddPublicationTag" Height="30" Margin="15,10,15,5" Padding="8,0"  
+                                            IsEnabled="{Binding Path=AddTagEnabled, FallbackValue=false}" 
+                                            Command="{Binding Path=AddTagCommand}">Add >></Button>
+                    <Button Name="rd_btnRemovePublicationTag" Height="30" Margin="15,5,15,5" Padding="8,0" 
+                                            IsEnabled="{Binding Path=RemoveTagEnabled, FallbackValue=false}" 
+                                            Command="{Binding Path=RemoveTagCommand}">&lt;&lt; Remove</Button>
+                </StackPanel>
+                <ListView Margin="0,5,0,5" x:Name="rd_SelectedPublicationTags"
+                                        HorizontalAlignment="Left"
+                                        Height="120"
+                                        VerticalContentAlignment="Top"
+                                        ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                                        ScrollViewer.VerticalScrollBarVisibility="Auto"
+                                        ItemsSource="{Binding Path=SelectedPublicationTags, Mode=TwoWay, UpdateSourceTrigger=LostFocus}" 
+                                        SelectedItem="{Binding Path=SelectedTag, Mode=TwoWay}">
+                    <ListView.View>
+                        <GridView >
+                            <GridViewColumn Header="Selected Tags" Width="250" DisplayMemberBinding="{Binding Path=., Mode=TwoWay}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </StackPanel>
+            <StackPanel Margin="10,5,0,5" Orientation="Horizontal">
+                <TextBox Margin="0,5,0,5" Width="250" Text="{Binding Path=NewTag, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                <Button Name="btnNewTag"
+                                            IsEnabled="{Binding Path=AddNewTagEnabled, FallbackValue=false}" 
+                                            HorizontalAlignment="Left" Height="30" Width="100" Margin="20,5,0,5" 
+                                            Padding="8,0" Command="{Binding Path=AddNewTagCommand}">Add New Tag</Button>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Button Name="btnOK" HorizontalAlignment="Left" Height="20" Width="75" Margin="10,5,0,5" Padding="8,0" IsEnabled="{Binding Path=DraftOKEnabled, FallbackValue=false}" Click="btnOK_Click">OK</Button>
+                <Button Name="btnCancel" HorizontalAlignment="Left" Height="20" Width="75" Margin="10,5,0,5" Padding="8,0" Click="btnCancel_Click" Content="Cancel"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
